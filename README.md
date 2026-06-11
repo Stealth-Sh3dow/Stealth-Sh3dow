@@ -14,7 +14,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanDavid-007&label=Profile views&color=0e75b6&style=flat" alt="AlanDavid-007" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlanDavid-007" alt="AlanDavid-007" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlanDavid-007" alt="AlanDavid-007" /></a> </p> -->
 
 - 🔭 I'm currently working on **Scalable web applications, e-commerce integrations, CRM automations, AI workflows and SaaS products using Next.js, Node.js, PHP, Python, Supabase, n8n and Docker.**
 
@@ -30,9 +30,9 @@
 
 - ⚡ Fun fact **Powered by code, automations and probably too much Monster Energy.**
 
-- 👨‍💻 All of my projects are available at **[https://alan-david-portfolio.dev/](https://alan-david-portfolio.dev/)**
+- 👨‍💻 All of my services and career history at **[https://alan-david-portfolio.dev/](https://alan-david-portfolio.dev/)**
 
-- 📝 I regularly write articles on **[https://auracriativa.com/](https://auracriativa.com/)**
+- 📝 I regularly update my work on **[https://auracriativa.com/](https://auracriativa.com/)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1635SE0eIA0CLjBE6vx3m1jYE4IB4PkIV/view?usp=sharing](https://drive.google.com/file/d/1635SE0eIA0CLjBE6vx3m1jYE4IB4PkIV/view?usp=sharing)**
 
