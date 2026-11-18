@@ -135,10 +135,11 @@ I work across the entire delivery cycle, from planning and UI to APIs, database 
 ## `05 // GITHUB STATS` <sub>CODE & CONTRIBUTIONS</sub>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stealth-Sh3dow&amp;show_icons=true&amp;hide_border=true&amp;bg_color=07101B&amp;title_color=30E4F3&amp;text_color=E8F7FF&amp;icon_color=FF365E&amp;ring_color=30E4F3" height="170" alt="SH3DOW GitHub public statistics" />
+  <img src="./assets/stats-sh3dow.svg" height="185" alt="SH3DOW GitHub stats card" />
+  <img src="./assets/languages-sh3dow.svg" height="185" alt="SH3DOW most used languages" />
 </div>
 
-<sub>📊 Third-party stats primarily reflect data accessible to the service. My native GitHub contribution calendar below this README includes anonymous private contributions whenever GitHub's private-contribution setting is enabled.</sub>
+<sub>📊 Updated daily by GitHub Actions. These cards currently use GitHub's built-in token for accessible repository statistics. Private repository metrics require the optional `README_STATS_PAT` Actions secret. The official contribution calendar beneath the README includes anonymized private contributions when enabled in GitHub settings.</sub>
 
 <div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Neon divider" /></div>
 
