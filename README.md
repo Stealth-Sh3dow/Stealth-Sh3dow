@@ -499,12 +499,6 @@ Integrating language models, intelligent agents, databases and automation.
 
 `PLAN` → `BUILD` → `DEBUG` → `SHIP` → `REPEAT`
 
-<br />
-
-<sub>
-The official GitHub contribution calendar below this README includes anonymized private contributions when enabled in profile settings.
-</sub>
-
 </div>
 
 <div align="center">
@@ -626,17 +620,6 @@ The official GitHub contribution calendar below this README includes anonymized 
 
 </tr>
 </table>
-
-<!--
-ADDITIONAL SOCIAL PROFILES
-
-Add verified URLs when available:
-
-YouTube:
-Discord:
-Steam:
-Instagram:
--->
 
 <br />
 
