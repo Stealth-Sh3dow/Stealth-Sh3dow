@@ -425,76 +425,35 @@ Build useful software, explore emerging technologies and create things I genuine
 ## `07 // BEYOND THE CODE` <sub>PERSONAL QUESTS</sub>
 
 <div align="center">
+  <b>NOT EVERYTHING HAS TO BE A CLIENT PROJECT</b>
+  <br /><br />
+  <table width="100%">
+  <tr>
+  <td width="420" valign="top" align="left">
+    <h3>🎮 Gaming & Modding</h3>
+    <p>Custom launchers, game modifications, desktop utilities, wallpapers and visual effects.</p>
+    <p><code>MODS</code> <code>LAUNCHERS</code> <code>UI EXPERIMENTS</code></p>
+  </td>
+  <td width="420" valign="top" align="left">
+    <h3>🦊 Anime & Creative Development</h3>
+    <p>Zenless Zone Zero, Hoshimi Miyabi, anime-inspired interfaces, cyberpunk visuals and creative tools.</p>
+    <p><code>ZZZ</code> <code>MIYABI</code> <code>CREATIVE TOOLS</code></p>
+  </td>
+  </tr>
+  </table>
 
-**NOT EVERYTHING HAS TO BE A CLIENT PROJECT**
+  <br />
 
+  <img src="./assets/emblema-raposa.svg" width="58" alt="SH3DOW Fox Emblem" />
+  <br />
+  <sub>CURRENT OBSESSION</sub>
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=17&amp;duration=2800&amp;pause=1400&amp;color=FF365E&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=Zenless+Zone+Zero;Hoshimi+Miyabi;Game+Modding;Creative+Development" width="80%" alt="Current interests" />
+  <br />
+  <i>Sometimes the best projects are the ones you build just because you want them to exist.</i>
 </div>
 
-<br />
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🎮 Gaming & Modding</h3>
-
-<ul>
-<li>Game modifications</li>
-<li>Custom launchers</li>
-<li>Interface customization</li>
-<li>Wallpapers and visual effects</li>
-<li>Desktop utilities</li>
-<li>Quality-of-life improvements</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🦊 Anime & Creative Development</h3>
-
-<ul>
-<li>Zenless Zone Zero</li>
-<li>Hoshimi Miyabi</li>
-<li>Anime-inspired interfaces</li>
-<li>Creative UI experiments</li>
-<li>Cyberpunk aesthetics</li>
-<li>Personal development projects</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-<img src="./assets/emblema-raposa.svg" width="65" alt="SH3DOW Fox Emblem" />
-
-<br />
-
-<b>CURRENT OBSESSION</b>
-
-<br />
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1400&color=FF365E&center=true&vCenter=true&width=650&height=45&lines=Zenless+Zone+Zero;Hoshimi+Miyabi;Game+Modding;Creative+Development"
-  width="85%"
-  alt="Current interests"
-/>
-
-<br />
-
-<i>Sometimes the best projects are the ones you build just because you want them to exist.</i>
-
-</div>
-
-<div align="center">
-<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
-</div>
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" /></div>
 
 <!-- ======================================================= -->
 <!-- 08 // CONNECTIONS                                       -->
@@ -505,52 +464,21 @@ Build useful software, explore emerging technologies and create things I genuine
 ## `08 // CONNECTIONS` <sub>FIND ME ONLINE</sub>
 
 <div align="center">
-
-**FIND ME AROUND THE INTERNET**
-
+  <sub>FIND ME AROUND THE INTERNET</sub>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/alan-silva-pereira-david/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://auracriativa.com/"><img src="https://img.shields.io/badge/AURA%20CRIATIVA-E72085?style=for-the-badge&amp;logoColor=white" alt="Aura Criativa" /></a>
+  <a href="https://github.com/Stealth-Sh3dow"><img src="https://img.shields.io/badge/GITHUB-171A25?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.tiktok.com/@stealth_shadow"><img src="https://img.shields.io/badge/TIKTOK-071422?style=for-the-badge&amp;logo=tiktok&amp;logoColor=FF365E" alt="TikTok" /></a>
+  <br /><br />
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-30E4F3?style=flat-square&amp;labelColor=07101B" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/ALWAYS-LEARNING-A88BFF?style=flat-square&amp;labelColor=07101B" alt="Always learning" />
+  <img src="https://img.shields.io/badge/FOREVER-CREATING-FF365E?style=flat-square&amp;labelColor=07101B" alt="Forever creating" />
 </div>
 
 <br />
 
-<!-- UNIFIED SOCIAL GRID -->
-
-<table width="100%">
-<tr>
-
-<td width="25%" align="center">
-<a href="https://www.linkedin.com/in/alan-silva-pereira-david/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</td>
-
-<td width="25%" align="center">
-<a href="https://auracriativa.com/"><img src="https://img.shields.io/badge/AURA-E72085?style=for-the-badge&logoColor=white" alt="Aura Criativa" /></a>
-</td>
-
-<td width="25%" align="center">
-<a href="https://github.com/Stealth-Sh3dow"><img src="https://img.shields.io/badge/GITHUB-171A25?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</td>
-
-<td width="25%" align="center">
-<a href="https://www.tiktok.com/@stealth_shadow"><img src="https://img.shields.io/badge/TIKTOK-071422?style=for-the-badge&logo=tiktok&logoColor=FF365E" alt="TikTok" /></a>
-</td>
-
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-<p align="center">
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-30E4F3?style=flat-square&labelColor=07101B" alt="Collaboration" />
-<img src="https://img.shields.io/badge/ALWAYS-LEARNING-A88BFF?style=flat-square&labelColor=07101B" alt="Learning" />
-<img src="https://img.shields.io/badge/FOREVER-CREATING-FF365E?style=flat-square&labelColor=07101B" alt="Creating" />
-</p>
-
-</div>
-
-<div align="center">
-<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
-</div>
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" /></div>
 
 <!-- ======================================================= -->
 <!-- 09 // END OF TRANSMISSION                                -->
@@ -561,42 +489,19 @@ Build useful software, explore emerging technologies and create things I genuine
 ## `09 // END OF TRANSMISSION` <sub>SYSTEM IDLE</sub>
 
 <div align="center">
-
-<b>THANKS FOR VISITING MY LITTLE CORNER OF GITHUB.</b>
-
-<br /><br />
-
-<img
-  src="./assets/hoshimi_miyabi.png"
-  width="70%"
-  alt="Hoshimi Miyabi"
-/>
-
-<br /><br />
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=1300&color=30E4F3&center=true&vCenter=true&width=650&height=50&lines=CODE+%2F%2F+AUTOMATE+%2F%2F+BUILD+%2F%2F+PLAY;SH3DOW+%2F%2F+END+OF+TRANSMISSION;SEE+YOU+IN+THE+NEXT+QUEST."
-  width="90%"
-  alt="End of transmission"
-/>
-
-<br />
-
-<sub>
-Inspired by Zenless Zone Zero and Hoshimi Miyabi.<br />
-Personal fan-made developer profile.
-</sub>
-
-<br /><br />
-
-<img src="./assets/emblema-raposa.svg" width="45" alt="SH3DOW" />
-
-<br />
-
-<sub>🦊 SH3DOW // SYSTEM ONLINE</sub>
-
+  <b>THANKS FOR VISITING MY LITTLE CORNER OF GITHUB.</b>
+  <br /><br />
+  <img src="./assets/hoshimi_miyabi.png" width="58%" alt="Hoshimi Miyabi" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=19&amp;duration=2200&amp;pause=1300&amp;color=30E4F3&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=CODE+%2F%2F+AUTOMATE+%2F%2F+BUILD+%2F%2F+PLAY;SH3DOW+%2F%2F+END+OF+TRANSMISSION;SEE+YOU+IN+THE+NEXT+QUEST." width="88%" alt="End of transmission" />
+  <br />
+  <img src="./assets/emblema-raposa.svg" width="36" alt="SH3DOW emblem" />
+  <br />
+  <sub>SH3DOW // END OF TRANSMISSION</sub>
+  <br /><br />
+  <sub>Fan-made profile inspired by Zenless Zone Zero and Hoshimi Miyabi.</sub>
+  <br /><br />
+  <a href="#top"><img src="https://img.shields.io/badge/RETURN-TO%20TOP-30E4F3?style=flat-square&amp;labelColor=07101B" alt="Return to top" /></a>
 </div>
 
-<!-- ======================================================= -->
-<!-- SH3DOW // END OF PROFILE                                 -->
-<!-- ======================================================= -->
+<!-- SH3DOW // END OF PROFILE -->
