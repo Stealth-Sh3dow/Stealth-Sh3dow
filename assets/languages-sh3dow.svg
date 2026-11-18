@@ -1,315 +1,47 @@
-
-      <svg
-        width="300"
-        height="215"
-        viewBox="0 0 300 215"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        role="img"
-        aria-labelledby="descId"
-      >
-        <title id="titleId"></title>
-        <desc id="descId"></desc>
-        <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #30E4F3;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
-          
-    @keyframes slideInAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: calc(100%-100px);
-      }
-    }
-    @keyframes growWidthAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: 100%;
-      }
-    }
-    .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #E8F7FF;
-    }
-    @supports(-moz-appearance: auto) {
-      /* Selector detects Firefox */
-      .stat { font-size:12px; }
-    }
-    .bold { font-weight: 700 }
-    .lang-name {
-      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #E8F7FF;
-    }
-    .stagger {
-      opacity: 0;
-      animation: fadeInAnimation 0.3s ease-in-out forwards;
-    }
-    #rect-mask rect{
-      animation: slideInAnimation 1s ease-in-out forwards;
-    }
-    .lang-progress{
-      animation: growWidthAnimation 0.6s ease-in-out forwards;
-    }
-    .progress-background { fill: #ddd; }
-    
-          
-
-          
-      /* Animations */
-      @keyframes scaleInAnimation {
-        from {
-          transform: translate(-5px, 5px) scale(0);
-        }
-        to {
-          transform: translate(-5px, 5px) scale(1);
-        }
-      }
-      @keyframes fadeInAnimation {
-        from {
-          opacity: 0;
-        }
-        to {
-          opacity: 1;
-        }
-      }
-    
-          
-        </style>
-
-        
-        <defs>
-          
-          
-        </defs>
-        
-
-        <rect
-          data-testid="card-bg"
-          class="card-bg"
-          x="0.5"
-          y="0.5"
-          rx="4.5"
-          height="99%"
-          stroke="#e4e2e2"
-          width="299"
-          fill="#07101B"
-          stroke-opacity="0"
-        />
-
-        
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >Most Used Languages</text>
-    </g>
-      </g>
-    
-
-        <g
-          data-testid="main-card-body"
-          transform="translate(0, 55)"
-        >
-          
-    <svg data-testid="lang-items" x="25">
-      
-  
-      <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
-        </mask>
-        
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="0"
-          y="0"
-          width="68.05"
-          height="8"
-          fill="#f1e05a"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="68.05"
-          y="0"
-          width="59.64"
-          height="8"
-          fill="#4F5D95"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="127.69"
-          y="0"
-          width="47.56"
-          height="8"
-          fill="#3572A5"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="175.25"
-          y="0"
-          width="28.94"
-          height="8"
-          fill="#e34c26"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="204.19"
-          y="0"
-          width="22.94"
-          height="8"
-          fill="#663399"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="227.13"
-          y="0"
-          width="15.75"
-          height="8"
-          fill="#3178c6"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="242.88"
-          y="0"
-          width="12.879999999999999"
-          height="8"
-          fill="#c6538c"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="245.76"
-          y="0"
-          width="12.14"
-          height="8"
-          fill="#1d365d"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="247.89999999999998"
-          y="0"
-          width="11.27"
-          height="8"
-          fill="#336790"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="249.17"
-          y="0"
-          width="10.84"
-          height="8"
-          fill="#f34b7d"
-        />
-      
-      
-    <g transform="translate(0, 25)">
-      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 27.22%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP 23.86%
-      </text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 19.02%
-      </text>
-    </g>
-  </g><g transform="translate(0, 75)">
-    <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 11.57%
-      </text>
-    </g>
-  </g><g transform="translate(0, 100)">
-    <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 9.18%
-      </text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 6.30%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#c6538c" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SCSS 1.15%
-      </text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#1d365d" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Less 0.86%
-      </text>
-    </g>
-  </g><g transform="translate(0, 75)">
-    <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#336790" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PLpgSQL 0.51%
-      </text>
-    </g>
-  </g><g transform="translate(0, 100)">
-    <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 0.33%
-      </text>
-    </g>
-  </g></g>
-    </g>
-  
-    </svg>
-  
-        </g>
-      </svg>
-    
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="310" viewBox="0 0 470 310" role="img">
+<rect x="0.5" y="0.5" width="469" height="309" rx="12" fill="#07101B" stroke="#234458"/>
+<text x="22" y="32" fill="#30E4F3" font-size="20" font-weight="700" font-family="Segoe UI, sans-serif">LANGUAGES // REPO COVERAGE</text>
+<text x="22" y="53" fill="#8CA6BA" font-size="12" font-family="Segoe UI, sans-serif">In how many repositories each language appears</text>
+<rect x="23" y="75" width="8" height="8" rx="2" fill="#30E4F3"/>
+<text x="39" y="85" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">JavaScript</text>
+<rect x="198" y="75" width="163" height="9" rx="4" fill="#1A3043"/>
+<rect x="198" y="75" width="126" height="9" rx="4" fill="#30E4F3"/>
+<text x="451" y="85" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">58 repos</text>
+<rect x="23" y="100" width="8" height="8" rx="2" fill="#FF365E"/>
+<text x="39" y="110" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">CSS</text>
+<rect x="198" y="100" width="163" height="9" rx="4" fill="#1A3043"/>
+<rect x="198" y="100" width="100" height="9" rx="4" fill="#FF365E"/>
+<text x="451" y="110" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">46 repos</text>
+<rect x="23" y="125" width="8" height="8" rx="2" fill="#B59AFF"/>
+<text x="39" y="135" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">HTML</text>
+<rect x="198" y="125" width="163" height="9" rx="4" fill="#1A3043"/>
+<rect x="198" y="125" width="72" height="9" rx="4" fill="#B59AFF"/>
+<text x="451" y="135" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">33 repos</text>
+<rect x="23" y="150" width="8" height="8" rx="2" fill="#FFD66E"/>
+<text x="39" y="160" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">PHP</text>
+<rect x="198" y="150" width="163" height="9" rx="4" fill="#1A3043"/>
+<rect x="198" y="150" width="54" height="9" rx="4" fill="#FFD66E"/>
+<text x="451" y="160" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">25 repos</text>
+<rect x="23" y="175" width="8" height="8" rx="2" fill="#4DDBBD"/>
+<text x="39" y="185" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">TypeScript</text>
+<rect x="198" y="175" width="163" height="9" rx="4" fill="#1A3043"/>
+<rect x="198" y="175" width="37" height="9" rx="4" fill="#4DDBBD"/>
+<text x="451" y="185" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">17 repos</text>
+<rect x="23" y="200" width="8" height="8" rx="2" fill="#7BA8FF"/>
+<text x="39" y="210" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">Hack</text>
+<rect x="198" y="200" width="163" height="9" rx="4" fill="#1A3043"/>
+<rect x="198" y="200" width="35" height="9" rx="4" fill="#7BA8FF"/>
+<text x="451" y="210" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">16 repos</text>
+<rect x="23" y="225" width="8" height="8" rx="2" fill="#E0A9FF"/>
+<text x="39" y="235" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">Java</text>
+<rect x="198" y="225" width="163" height="9" rx="4" fill="#1A3043"/>
+<rect x="198" y="225" width="26" height="9" rx="4" fill="#E0A9FF"/>
+<text x="451" y="235" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">12 repos</text>
+<rect x="23" y="250" width="8" height="8" rx="2" fill="#FF995D"/>
+<text x="39" y="260" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">SCSS</text>
+<rect x="198" y="250" width="163" height="9" rx="4" fill="#1A3043"/>
+<rect x="198" y="250" width="22" height="9" rx="4" fill="#FF995D"/>
+<text x="451" y="260" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">10 repos</text>
+<path d="M22 282 H448" stroke="#234458"/>
+<text x="22" y="299" fill="#8CA6BA" font-size="11" font-family="Segoe UI, sans-serif">75 repositories scanned · languages can overlap</text>
+</svg>

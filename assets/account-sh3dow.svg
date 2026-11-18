@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="190" viewBox="0 0 940 190" role="img">
+<rect width="940" height="190" rx="12" fill="#07101B" stroke="#30E4F3" stroke-width="1.2"/>
+<text x="24" y="32" fill="#30E4F3" font-size="19" font-weight="700" font-family="Segoe UI, sans-serif">SH3DOW // FULL ACCOUNT COVERAGE</text>
+<text x="916" y="32" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">SINCE 2022 · AUTHENTICATED GITHUB API</text>
+<path d="M24 45 H916" stroke="#234458" stroke-width="1"/>
+<text x="24" y="78" fill="#8CA6BA" font-size="11" font-weight="700" font-family="Segoe UI, sans-serif">ACCESSIBLE REPOS</text>
+<text x="24" y="122" fill="#30E4F3" font-size="37" font-weight="700" font-family="Segoe UI, sans-serif">75</text>
+<path d="M196 58 V148" stroke="#234458" stroke-width="1"/>
+<text x="206" y="78" fill="#8CA6BA" font-size="11" font-weight="700" font-family="Segoe UI, sans-serif">PUBLIC</text>
+<text x="206" y="122" fill="#E8F7FF" font-size="37" font-weight="700" font-family="Segoe UI, sans-serif">40</text>
+<path d="M378 58 V148" stroke="#234458" stroke-width="1"/>
+<text x="388" y="78" fill="#8CA6BA" font-size="11" font-weight="700" font-family="Segoe UI, sans-serif">PRIVATE</text>
+<text x="388" y="122" fill="#FF365E" font-size="37" font-weight="700" font-family="Segoe UI, sans-serif">35</text>
+<path d="M560 58 V148" stroke="#234458" stroke-width="1"/>
+<text x="570" y="78" fill="#8CA6BA" font-size="11" font-weight="700" font-family="Segoe UI, sans-serif">GITHUB CONTRIBUTIONS</text>
+<text x="570" y="122" fill="#B59AFF" font-size="37" font-weight="700" font-family="Segoe UI, sans-serif">1,643</text>
+<path d="M742 58 V148" stroke="#234458" stroke-width="1"/>
+<text x="752" y="78" fill="#8CA6BA" font-size="11" font-weight="700" font-family="Segoe UI, sans-serif">CONTRIBS IN 2026</text>
+<text x="752" y="122" fill="#30E4F3" font-size="37" font-weight="700" font-family="Segoe UI, sans-serif">538</text>
+<path d="M24 151 H916" stroke="#234458" stroke-width="1"/>
+<text x="24" y="175" fill="#8CA6BA" font-size="12" font-family="Segoe UI, sans-serif">Public + private + accessible collaborators. GitHub-recognized calendar contributions. No repository details exposed.</text>
+</svg>
