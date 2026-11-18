@@ -45,7 +45,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: 'username=Stealth-Sh3dow&show_icons=true&include_all_commits=true&hide_rank=true&show=reviews,prs_merged&hide_border=true&bg_color=07101B&title_color=30E4F3&text_color=E8F7FF&icon_color=FF365E&ring_color=30E4F3&custom_title=SH3DOW%20%2F%2F%20GITHUB%20STATS'
+          options: 'username=Stealth-Sh3dow&show_icons=true&include_all_commits=true&hide_rank=true&hide=contribs&show=prs_merged&hide_border=true&bg_color=07101B&title_color=30E4F3&text_color=E8F7FF&icon_color=FF365E&ring_color=30E4F3&custom_title=SH3DOW%20%2F%2F%20GITHUB%20STATS'
           path: assets/stats-sh3dow.svg
           token: ${{ secrets.README_STATS_PAT || github.token }}
           fail_on_error: true
