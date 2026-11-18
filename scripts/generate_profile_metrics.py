@@ -109,35 +109,31 @@ def write_svg(name, content):
     OUTPUT.mkdir(parents=True, exist_ok=True)
     (OUTPUT / name).write_text(content, encoding="utf-8")
 
-def account_card(repos, start_year, contributions, annual):
-    public = sum(r.get("visibility") == "public" or not r.get("private", False) for r in repos)
-    private = len(repos) - public
+def account_card(repos, start_year, contributions, annual, languages_count):
     year_now = dt.datetime.now(dt.timezone.utc).year
     entries = [
-        ("ACCESSIBLE REPOS", len(repos), CYAN),
-        ("PUBLIC", public, WHITE),
-        ("PRIVATE", private, PINK),
-        ("GITHUB CONTRIBUTIONS", f"{contributions:,}", "#B59AFF"),
-        (f"CONTRIBS IN {year_now}", f"{annual.get(year_now, 0):,}", CYAN),
+        ("PROJECTS TRACKED", f"{len(repos):,}", CYAN),
+        ("TOTAL CONTRIBUTIONS", f"{contributions:,}", "#B59AFF"),
+        (f"CONTRIBS IN {year_now}", f"{annual.get(year_now, 0):,}", PINK),
+        ("LANGUAGES DETECTED", str(languages_count), WHITE),
     ]
     width = 940
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="190" viewBox="0 0 {width} 190" role="img">',
         '<rect width="940" height="190" rx="12" fill="#07101B" stroke="#30E4F3" stroke-width="1.2"/>',
-        f'<text x="24" y="32" fill="{CYAN}" font-size="19" font-weight="700" font-family="Segoe UI, sans-serif">SH3DOW // FULL ACCOUNT COVERAGE</text>',
-        f'<text x="916" y="32" fill="{DIM}" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">SINCE {start_year} · AUTHENTICATED GITHUB API</text>',
+        f'<text x="24" y="32" fill="{CYAN}" font-size="19" font-weight="700" font-family="Segoe UI, sans-serif">SH3DOW // DEVELOPMENT RECORD</text>',
+        f'<text x="916" y="32" fill="{DIM}" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">TRACKING SINCE {start_year}</text>',
         '<path d="M24 45 H916" stroke="#234458" stroke-width="1"/>',
     ]
-    col_w = 180
     for i, (label, value, color) in enumerate(entries):
-        x = 24 + i * 182
+        x = 28 + i * 230
         if i:
-            parts.append(f'<path d="M{x-10} 58 V148" stroke="#234458" stroke-width="1"/>')
+            parts.append(f'<path d="M{x-15} 58 V148" stroke="#234458" stroke-width="1"/>')
         parts.append(f'<text x="{x}" y="78" fill="{DIM}" font-size="11" font-weight="700" font-family="Segoe UI, sans-serif">{xml(label)}</text>')
         parts.append(f'<text x="{x}" y="122" fill="{color}" font-size="37" font-weight="700" font-family="Segoe UI, sans-serif">{xml(value)}</text>')
     parts.extend([
         '<path d="M24 151 H916" stroke="#234458" stroke-width="1"/>',
-        f'<text x="24" y="175" fill="{DIM}" font-size="12" font-family="Segoe UI, sans-serif">Public + private + accessible collaborators. GitHub-recognized calendar contributions. No repository details exposed.</text>',
+        f'<text x="24" y="175" fill="{DIM}" font-size="12" font-family="Segoe UI, sans-serif">Development activity, contributions and technologies across my GitHub projects.</text>',
         '</svg>'
     ])
     write_svg("account-sh3dow.svg", "\n".join(parts))
@@ -165,8 +161,8 @@ def language_card(filename, title, subtitle, ranks, denominator, mode, scanned):
             f'<rect x="198" y="{y-10}" width="{max(1, round(163 * min(pct,100)/100))}" height="9" rx="4" fill="{color}"/>',
             f'<text x="451" y="{y}" fill="{DIM}" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">{xml(label)}</text>',
         ])
-    footer = (f"{scanned} repositories scanned · languages can overlap" if mode == "repos" else
-              f"GitHub language bytes across {scanned} repositories · not your proficiency")
+    footer = ("One repository can contain several languages" if mode == "repos" else
+              "Distribution based on GitHub language analysis")
     parts.extend([
         '<path d="M22 282 H448" stroke="#234458"/>',
         f'<text x="22" y="299" fill="{DIM}" font-size="11" font-family="Segoe UI, sans-serif">{xml(footer)}</text>',
@@ -194,7 +190,7 @@ def main():
                 counts[language] += 1
                 byte_totals[language] += size
     since_year, recognized_total, yearly = collect_contributions()
-    account_card(repositories, since_year, recognized_total, yearly)
+    account_card(repositories, since_year, recognized_total, yearly, len(counts))
     language_card(
         "languages-sh3dow.svg",
         "LANGUAGES // REPO COVERAGE",
@@ -211,9 +207,7 @@ def main():
         sum(byte_totals.values()),
         "bytes", scanned,
     )
-    print(f"Generated private-safe SVG metrics: {len(repositories)} accessible repositories, "
-          f"{sum(r.get('private',False) for r in repositories)} private, "
-          f"{scanned} language scans, {recognized_total} calendar contributions since {since_year}.")
+    print(f"Updated GitHub profile charts from {scanned} accessible repositories and {recognized_total} contributions since {since_year}.")
 
 if __name__ == "__main__":
     main()
