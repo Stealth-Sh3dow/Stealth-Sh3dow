@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout profile repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Create assets directory
         run: mkdir -p assets
@@ -55,5 +55,16 @@ jobs:
           git add assets/stats-sh3dow.svg assets/languages-sh3dow.svg
           if ! git diff --cached --quiet; then
             git commit -m "chore: refresh SH3DOW statistics"
-            git push origin HEAD:main
+            # The README may change while cards are generated. Rebase onto the
+            # latest main instead of overwriting or rejecting newer commits.
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+              sleep 3
+            done
+            echo "Could not push refreshed stats after three attempts" >&2
+            exit 1
           fi
