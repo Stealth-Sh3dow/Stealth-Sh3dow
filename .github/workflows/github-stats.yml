@@ -1,0 +1,59 @@
+name: SH3DOW | Update GitHub Stats
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/github-stats.yml
+  schedule:
+    - cron: '17 9 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sh3dow-profile-stats
+  cancel-in-progress: false
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      # Works with GITHUB_TOKEN for public stats. To include private repositories,
+      # add a repository Actions secret named README_STATS_PAT with the required
+      # permissions. Do not put tokens in this public workflow or the README.
+      - name: Generate GitHub statistics
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: 'username=Stealth-Sh3dow&show_icons=true&include_all_commits=true&show=reviews,prs_merged&hide_border=true&bg_color=07101B&title_color=30E4F3&text_color=E8F7FF&icon_color=FF365E&ring_color=30E4F3&custom_title=SH3DOW%20%2F%2F%20GITHUB%20STATS'
+          path: assets/stats-sh3dow.svg
+          token: ${{ secrets.README_STATS_PAT || github.token }}
+          fail_on_error: true
+
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=Stealth-Sh3dow&layout=compact&langs_count=10&hide_border=true&bg_color=07101B&title_color=30E4F3&text_color=E8F7FF'
+          path: assets/languages-sh3dow.svg
+          token: ${{ secrets.README_STATS_PAT || github.token }}
+          fail_on_error: true
+
+      - name: Commit updated SVG cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats-sh3dow.svg assets/languages-sh3dow.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh SH3DOW statistics"
+            git push origin HEAD:main
+          fi
