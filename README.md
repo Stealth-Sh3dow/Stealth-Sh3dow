@@ -1,89 +1,58 @@
 <!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║   SH3DOW // PERSONAL GITHUB PROFILE                       ║
-  ║   VERSION: 3.0                                            ║
-  ║                                                          ║
-  ║   USERNAME: Stealth-Sh3dow                                ║
-  ║   THEME: ZENLESS ZONE ZERO / HOSHIMI MIYABI               ║
-  ║                                                          ║
-  ║   CODE. AUTOMATE. BUILD. PLAY.                            ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
+  ============================================================
+  SH3DOW // GITHUB PROFILE
+  VERSION: 3.1
+  USERNAME: Stealth-Sh3dow
+  THEME: ZENLESS ZONE ZERO / HOSHIMI MIYABI
 
-  All local assets are stored in ./assets/
+  CODE // AUTOMATE // BUILD // PLAY
 
-  This README uses GitHub-compatible Markdown and HTML.
-  No custom JavaScript or external CSS required.
+  Assets: ./assets/
+  ============================================================
 -->
-
-<!-- ======================================================= -->
-<!-- 00 // INITIALIZATION                                     -->
-<!-- ======================================================= -->
 
 <div align="center">
 
-  <img
-    src="./assets/banner-sh3dow-animado.gif"
-    width="100%"
-    alt="SH3DOW // Hoshimi Miyabi"
-  />
+<img src="./assets/banner-sh3dow-animado.gif" width="100%" alt="SH3DOW // Hoshimi Miyabi" />
 
-  <br />
+<br />
 
-  <img
-    src="https://img.shields.io/badge/SYSTEM-ONLINE-30E4F3?style=flat-square&labelColor=07101B"
-    alt="System online"
-  />
+<!-- SYSTEM STATUS: FOUR-COLUMN GRID -->
 
-  <img
-    src="https://img.shields.io/badge/IDENTITY-SH3DOW-FF365E?style=flat-square&labelColor=07101B"
-    alt="SH3DOW"
-  />
+<table width="100%">
+<tr>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/SYSTEM-ONLINE-30E4F3?style=flat-square&labelColor=07101B" alt="System Online" /></td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/IDENTITY-SH3DOW-FF365E?style=flat-square&labelColor=07101B" alt="SH3DOW" /></td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/REGION-BRAZIL-30E4F3?style=flat-square&labelColor=07101B" alt="Brazil" /></td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/EXP-5%2B%20YEARS-A88BFF?style=flat-square&labelColor=07101B" alt="Experience" /></td>
+</tr>
+</table>
 
-  <img
-    src="https://img.shields.io/badge/LOCATION-BRAZIL-30E4F3?style=flat-square&labelColor=07101B"
-    alt="Brazil"
-  />
+<!-- ANIMATED INTRODUCTION -->
 
-  <img
-    src="https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-FF365E?style=flat-square&labelColor=07101B"
-    alt="Experience"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=30E4F3&center=true&vCenter=true&width=700&height=55&lines=Full+Stack+Developer;Automation+%26+AI+Engineer;Creative+Developer;Game+Modding+Enthusiast;Building+Things+I+Wish+Existed."
+  width="90%"
+  alt="Animated developer introduction"
+/>
 
-  <br /><br />
+<br />
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=30E4F3&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Automation+%26+AI+Engineer;Creative+Developer;Game+Modding+Enthusiast;Building+things+I+wish+existed."
-    alt="SH3DOW introduction"
-  />
+<!-- QUICK ACCESS -->
 
-  <br />
-
-  <a href="https://www.linkedin.com/in/alan-silva-pereira-david/">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-071422?style=for-the-badge&logo=linkedin&logoColor=30E4F3"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://auracriativa.com/">
-    <img
-      src="https://img.shields.io/badge/AURA%20CRIATIVA-071422?style=for-the-badge&logoColor=FF365E"
-      alt="Aura Criativa"
-    />
-  </a>
-
-  <a href="https://github.com/Stealth-Sh3dow?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/REPOSITORIES-071422?style=for-the-badge&logo=github&logoColor=30E4F3"
-      alt="Repositories"
-    />
-  </a>
+<p align="center">
+<a href="https://www.linkedin.com/in/alan-silva-pereira-david/"><img src="https://img.shields.io/badge/LINKEDIN-071422?style=for-the-badge&logo=linkedin&logoColor=30E4F3" alt="LinkedIn" /></a>
+<a href="https://auracriativa.com/"><img src="https://img.shields.io/badge/AURA%20CRIATIVA-071422?style=for-the-badge&logoColor=FF365E" alt="Aura Criativa" /></a>
+<a href="https://github.com/Stealth-Sh3dow?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-071422?style=for-the-badge&logo=github&logoColor=30E4F3" alt="Repositories" /></a>
+</p>
 
 </div>
 
 <br />
+
+<div align="center">
+<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
+</div>
 
 <!-- ======================================================= -->
 <!-- 01 // AGENT DOSSIER                                      -->
@@ -92,10 +61,9 @@
 ## `01 // AGENT DOSSIER` <sub>IDENTITY & BACKGROUND</sub>
 
 <table width="100%">
-
 <tr>
 
-<td width="48%" valign="top">
+<td width="45%" valign="top">
 
 <h3>🦊 Operator Information</h3>
 
@@ -105,24 +73,22 @@
   github: "Stealth-Sh3dow",
 
   class: "Full Stack Developer",
-
   experience: "5+ years",
-
   location: "Brazil",
 
-  specialization: [
+  focus: [
     "Software Engineering",
     "Automation",
-    "Artificial Intelligence",
+    "AI",
     "E-commerce"
   ],
 
-  currentStatus: "Building"
+  status: "Building"
 };</code></pre>
 
 </td>
 
-<td width="52%" valign="top">
+<td width="55%" valign="top">
 
 <h3>⚡ About the Operator</h3>
 
@@ -131,58 +97,42 @@ Hey! I'm <b>Alan David</b>, also known as <b>SH3DOW</b>.
 </p>
 
 <p>
-I'm a Full Stack Developer with over <b>5 years of experience</b> building web applications, business systems, e-commerce solutions, APIs and automation platforms.
+I'm a Full Stack Developer with over <b>5 years of experience</b> building applications, business systems, e-commerce platforms, APIs and automation solutions.
 </p>
 
 <p>
-I enjoy combining software engineering, artificial intelligence and creative development to turn ideas into functional products.
+I work across the entire development stack, combining software engineering, cloud infrastructure, artificial intelligence and automation.
 </p>
 
 <p>
-Outside professional work, I spend time experimenting with game modifications, custom interfaces, desktop utilities and technologies that catch my attention.
+Outside professional development, I enjoy experimenting with game modifications, custom interfaces, desktop applications and creative tools.
 </p>
 
 <p>
 <b>Current objective:</b><br />
-Build useful software, explore new technologies and create things I would genuinely enjoy using.
+Build useful software, explore emerging technologies and create things I genuinely enjoy using.
 </p>
 
 </td>
 
 </tr>
-
 </table>
 
-<div align="center">
+<!-- SPECIALIZATION GRID -->
 
-  <img
-    src="https://img.shields.io/badge/MAIN%20CLASS-FULL%20STACK-30E4F3?style=flat-square&labelColor=07101B"
-    alt="Full Stack"
-  />
-
-  <img
-    src="https://img.shields.io/badge/SUBCLASS-AUTOMATION-FF365E?style=flat-square&labelColor=07101B"
-    alt="Automation"
-  />
-
-  <img
-    src="https://img.shields.io/badge/SPECIALIZATION-ARTIFICIAL%20INTELLIGENCE-A88BFF?style=flat-square&labelColor=07101B"
-    alt="Artificial Intelligence"
-  />
-
-  <img
-    src="https://img.shields.io/badge/SIDE%20QUEST-GAME%20MODDING-30E4F3?style=flat-square&labelColor=07101B"
-    alt="Game Modding"
-  />
-
-</div>
-
-<br />
+<table width="100%">
+<tr>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/CLASS-FULL%20STACK-30E4F3?style=flat-square&labelColor=07101B" alt="Full Stack" /></td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/CLASS-AUTOMATION-FF365E?style=flat-square&labelColor=07101B" alt="Automation" /></td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/CLASS-AI-A88BFF?style=flat-square&labelColor=07101B" alt="Artificial Intelligence" /></td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/CLASS-MODDING-30E4F3?style=flat-square&labelColor=07101B" alt="Game Modding" /></td>
+</tr>
+</table>
 
 > 🦊 **Code is my craft. Building weirdly specific things is my hobby.**
 
 <div align="center">
-  <img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
+<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
 </div>
 
 <!-- ======================================================= -->
@@ -195,103 +145,39 @@ Build useful software, explore new technologies and create things I would genuin
 
 ### `PRIMARY TECHNOLOGIES`
 
-<img
-  src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,php,laravel,python,kotlin&perline=9"
-  alt="Primary programming technologies"
-/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,php,laravel,python,kotlin&perline=9" alt="Programming languages and frameworks" />
+</p>
 
-<br /><br />
-
-<img
-  src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,vercel,linux,figma&perline=9"
-  alt="Databases, infrastructure and development tools"
-/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,vercel,linux,figma&perline=9" alt="Databases and development tools" />
+</p>
 
 </div>
 
 <br />
+
+<!-- TECHNOLOGY PANELS -->
 
 <table width="100%">
-
 <tr>
-<td width="50%" align="center">
-
-<img
-  src="./assets/stack-frontend.png"
-  width="100%"
-  alt="Frontend stack"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-  src="./assets/stack-backend.png"
-  width="100%"
-  alt="Backend stack"
-/>
-
-</td>
+<td width="50%" align="center"><img src="./assets/stack-frontend.png" width="100%" alt="Frontend" /></td>
+<td width="50%" align="center"><img src="./assets/stack-backend.png" width="100%" alt="Backend" /></td>
 </tr>
-
 <tr>
-<td align="center">
-
-<img
-  src="./assets/stack-dados.png"
-  width="100%"
-  alt="Databases and Cloud"
-/>
-
-</td>
-
-<td align="center">
-
-<img
-  src="./assets/stack-automacao-ia.png"
-  width="100%"
-  alt="Automation and AI"
-/>
-
-</td>
+<td align="center"><img src="./assets/stack-dados.png" width="100%" alt="Databases and Cloud" /></td>
+<td align="center"><img src="./assets/stack-automacao-ia.png" width="100%" alt="Automation and AI" /></td>
 </tr>
-
 <tr>
-<td align="center">
-
-<img
-  src="./assets/stack-ecommerce.png"
-  width="100%"
-  alt="E-commerce and Payments"
-/>
-
-</td>
-
-<td align="center">
-
-<img
-  src="./assets/stack-crm-marketing.png"
-  width="100%"
-  alt="CRM and Marketing"
-/>
-
-</td>
+<td align="center"><img src="./assets/stack-ecommerce.png" width="100%" alt="E-commerce" /></td>
+<td align="center"><img src="./assets/stack-crm-marketing.png" width="100%" alt="CRM and Marketing" /></td>
 </tr>
-
+<tr>
+<td colspan="2" align="center"><img src="./assets/stack-infra.png" width="72%" alt="DevOps and Infrastructure" /></td>
+</tr>
 </table>
 
-<div align="center">
-
-<img
-  src="./assets/stack-infra.png"
-  width="75%"
-  alt="DevOps and Infrastructure"
-/>
-
-</div>
-
-<br />
+<!-- EXPANDABLE TECHNOLOGY DATABASE -->
 
 <details>
 <summary><b>🛠️ EXPAND FULL TECHNOLOGY DATABASE</b></summary>
@@ -301,14 +187,14 @@ Build useful software, explore new technologies and create things I would genuin
 | Category | Technologies & Experience |
 |:---|:---|
 | **Frontend Engineering** | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, responsive interfaces |
-| **Backend Engineering** | Node.js, PHP, Laravel, Python, API architecture, REST, GraphQL |
+| **Backend Engineering** | Node.js, PHP, Laravel, Python, REST APIs, GraphQL |
 | **Mobile Development** | Kotlin, Android development, Android Studio |
 | **Databases** | PostgreSQL, MySQL, Supabase, Firebase, SQL, data modeling |
-| **Automation** | n8n, webhooks, integrations, scheduled workflows, data synchronization |
+| **Automation** | n8n, webhooks, scheduled workflows, synchronization, API integrations |
 | **Artificial Intelligence** | OpenAI, Claude, LLM APIs, AI agents, prompt engineering, structured outputs |
 | **E-commerce** | Shopify, Nuvemshop, WBuy, AppMax, storefronts, checkout, payments |
 | **CRM Systems** | GoHighLevel, LeadConnector, pipelines, custom fields, CRM integrations |
-| **Marketing Technology** | Meta Ads, Google Ads, Google Tag Manager, Analytics, pixels |
+| **Marketing Technology** | Meta Ads, Google Ads, GTM, Google Analytics, pixels |
 | **Cloud & DevOps** | Docker, Vercel, Linux, VPS, GitHub Actions, CI/CD |
 | **System Architecture** | API integrations, retries, rate limits, pagination, error handling |
 | **Creative Development** | Electron, CSS customization, themes, animations, desktop tools |
@@ -320,7 +206,7 @@ Build useful software, explore new technologies and create things I would genuin
 <br />
 
 <div align="center">
-  <img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
+<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
 </div>
 
 <!-- ======================================================= -->
@@ -340,16 +226,11 @@ Build useful software, explore new technologies and create things I would genuin
 <br />
 
 <table width="100%">
-
 <tr>
 
 <td width="50%" valign="top">
 
-<img
-  src="./assets/projeto-spectra.png"
-  width="100%"
-  alt="SPECTRA Launcher Mods"
-/>
+<img src="./assets/projeto-spectra.png" width="100%" alt="SPECTRA" />
 
 <h3>🎮 SPECTRA / Launcher Mods</h3>
 
@@ -357,15 +238,12 @@ Build useful software, explore new technologies and create things I would genuin
 A personal project focused on extending and customizing the Hydra Launcher experience.
 </p>
 
-<p>
-<b>Features & Experiments:</b>
-</p>
+<b>Features & Experiments</b>
 
 <ul>
 <li>Custom themes and interfaces</li>
 <li>Dynamic wallpapers</li>
-<li>Visual transitions and effects</li>
-<li>Advanced customization</li>
+<li>Visual effects and transitions</li>
 <li>Safe Mode</li>
 <li>Mod management tools</li>
 <li>Desktop automation</li>
@@ -378,30 +256,21 @@ A personal project focused on extending and customizing the Hydra Launcher exper
 
 <br /><br />
 
-<img
-  src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-30E4F3?style=flat-square&labelColor=07101B"
-  alt="In development"
-/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-30E4F3?style=flat-square&labelColor=07101B" alt="Development status" />
 
 </td>
 
 <td width="50%" valign="top">
 
-<img
-  src="./assets/projeto-aura-os.png"
-  width="100%"
-  alt="Aura Criativa OS"
-/>
+<img src="./assets/projeto-aura-os.png" width="100%" alt="Aura OS" />
 
 <h3>💗 Aura Criativa / Aura OS</h3>
 
 <p>
-A growing ecosystem of applications and automation solutions designed to support creative and business operations.
+An ecosystem of applications and automation solutions supporting creative and business operations.
 </p>
 
-<p>
-<b>Areas of Development:</b>
-</p>
+<b>Areas of Development</b>
 
 <ul>
 <li>Web applications and dashboards</li>
@@ -409,7 +278,6 @@ A growing ecosystem of applications and automation solutions designed to support
 <li>Business process automation</li>
 <li>AI-powered workflows</li>
 <li>Data integrations</li>
-<li>Custom management tools</li>
 <li>Operational intelligence</li>
 </ul>
 
@@ -420,31 +288,20 @@ A growing ecosystem of applications and automation solutions designed to support
 
 <br /><br />
 
-<a href="https://auracriativa.com/">
-  <img
-    src="https://img.shields.io/badge/EXPLORE-AURA%20CRIATIVA-FF365E?style=flat-square&labelColor=07101B"
-    alt="Aura Criativa"
-  />
-</a>
+<a href="https://auracriativa.com/"><img src="https://img.shields.io/badge/EXPLORE-AURA%20CRIATIVA-FF365E?style=flat-square&labelColor=07101B" alt="Aura Criativa" /></a>
 
 </td>
 
 </tr>
-
 </table>
 
-<table width="100%">
+<!-- INTEGRATION PROJECT -->
 
+<table width="100%">
 <tr>
 
 <td width="38%" valign="middle">
-
-<img
-  src="./assets/projeto-integracoes.png"
-  width="100%"
-  alt="Integrations and Automation"
-/>
-
+<img src="./assets/projeto-integracoes.png" width="100%" alt="Integrations" />
 </td>
 
 <td width="62%" valign="middle">
@@ -456,7 +313,7 @@ Building connections between platforms, APIs and business systems.
 </p>
 
 <p>
-My integration work includes e-commerce platforms, CRMs, payment services, external databases, healthcare scheduling systems and intelligent workflows.
+My integration work includes e-commerce platforms, CRMs, payment services, external databases, scheduling systems and intelligent workflows.
 </p>
 
 <code>REST</code>
@@ -468,17 +325,12 @@ My integration work includes e-commerce platforms, CRMs, payment services, exter
 </td>
 
 </tr>
-
 </table>
 
-<br />
-
-<blockquote>
-🔒 Many of my professional projects live in private repositories. Client data, source code, credentials and business information remain confidential.
-</blockquote>
+> 🔒 Many of my professional projects live in private repositories. Client source code, credentials and business information remain confidential.
 
 <div align="center">
-  <img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
+<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
 </div>
 
 <!-- ======================================================= -->
@@ -488,56 +340,52 @@ My integration work includes e-commerce platforms, CRMs, payment services, exter
 ## `04 // PROFESSIONAL FOCUS` <sub>WHAT I BUILD</sub>
 
 <div align="center">
-
-<img
-  src="./assets/areas-de-atuacao.png"
-  width="100%"
-  alt="Professional areas of expertise"
-/>
-
+<img src="./assets/areas-de-atuacao.png" width="100%" alt="Areas of expertise" />
 </div>
 
 <br />
 
 <table width="100%">
-
 <tr>
 
 <td width="33%" valign="top">
 
-### `01 // BUILD`
+<h3>01 // BUILD</h3>
 
-**Full Stack Development**
+<b>Full Stack Development</b>
 
-Web applications, APIs, SaaS platforms, responsive interfaces and custom software solutions.
-
-</td>
-
-<td width="33%" valign="top">
-
-### `02 // CONNECT`
-
-**Automation & Integrations**
-
-Connecting services, synchronizing data, designing workflows and reducing repetitive operations.
+<p>
+Web applications, APIs, SaaS platforms, interfaces and custom software solutions.
+</p>
 
 </td>
 
 <td width="33%" valign="top">
 
-### `03 // INTELLIGENCE`
+<h3>02 // CONNECT</h3>
 
-**AI & Data Systems**
+<b>Automation & Integrations</b>
 
-Integrating language models, intelligent agents, databases and automation into practical software.
+<p>
+Connecting services, synchronizing data and designing reliable workflows.
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>03 // INTELLIGENCE</h3>
+
+<b>AI & Data Systems</b>
+
+<p>
+Integrating language models, intelligent agents, databases and automation.
+</p>
 
 </td>
 
 </tr>
-
 </table>
-
-<br />
 
 <div align="center">
 
@@ -548,52 +396,45 @@ Integrating language models, intelligent agents, databases and automation into p
 <br />
 
 <div align="center">
-  <img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
+<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
 </div>
 
 <!-- ======================================================= -->
-<!-- 05 // GITHUB STATISTICS                                  -->
+<!-- 05 // GITHUB STATS                                       -->
 <!-- ======================================================= -->
 
 ## `05 // GITHUB STATS` <sub>CODE & CONTRIBUTIONS</sub>
 
-<div align="center">
+<!-- TWO-COLUMN STATISTICS GRID -->
 
-<img
-  src="./assets/stats-sh3dow.svg"
-  width="55%"
-  alt="SH3DOW GitHub Statistics"
-/>
+<table width="100%">
+<tr>
 
-<img
-  src="./assets/languages-sh3dow.svg"
-  width="40%"
-  alt="SH3DOW Most Used Languages"
-/>
+<td width="58%" align="center" valign="middle">
+<img src="./assets/stats-sh3dow.svg" width="100%" alt="SH3DOW GitHub Statistics" />
+</td>
 
-</div>
+<td width="42%" align="center" valign="middle">
+<img src="./assets/languages-sh3dow.svg" width="100%" alt="Most Used Languages" />
+</td>
 
-<br />
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://github.com/Stealth-Sh3dow?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-30E4F3?style=for-the-badge&logo=github&logoColor=30E4F3&labelColor=07101B"
-    alt="Explore repositories"
-  />
-</a>
+<a href="https://github.com/Stealth-Sh3dow?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-30E4F3?style=for-the-badge&logo=github&logoColor=30E4F3&labelColor=07101B" alt="Explore repositories" /></a>
 
 </div>
 
 <br />
 
 <sub>
-📊 Statistics are generated automatically using GitHub Actions. Available metrics depend on the configured authentication and repository permissions. Language percentages represent analyzed code, not professional proficiency.
+📊 Statistics are updated by GitHub Actions. Available metrics depend on repository permissions. Language percentages represent analyzed code, not professional proficiency.
 </sub>
 
 <div align="center">
-  <img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
+<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
 </div>
 
 <!-- ======================================================= -->
@@ -608,74 +449,63 @@ Integrating language models, intelligent agents, databases and automation into p
 
 <br />
 
-<img
-  src="https://komarev.com/ghpvc/?username=Stealth-Sh3dow&label=PROFILE%20VIEWS&color=30E4F3&style=for-the-badge"
-  alt="Profile views"
-/>
-
-<img
-  src="https://img.shields.io/github/followers/Stealth-Sh3dow?label=FOLLOWERS&style=for-the-badge&logo=github&color=FF365E&labelColor=07101B"
-  alt="GitHub followers"
-/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Stealth-Sh3dow&label=PROFILE%20VIEWS&color=30E4F3&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Stealth-Sh3dow?label=FOLLOWERS&style=for-the-badge&logo=github&color=FF365E&labelColor=07101B" alt="Followers" />
+</p>
 
 </div>
 
-<br />
-
 <table width="100%">
-
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### `01 // CODE`
+<h3>01 // CODE</h3>
 
-**Developing**
+<b>Developing</b>
 
-Web apps, systems, APIs and custom tools.
-
-</td>
-
-<td width="33%" align="center">
-
-### `02 // AUTOMATE`
-
-**Optimizing**
-
-Workflows, integrations and intelligent processes.
+<p>Web apps, APIs, systems and custom tools.</p>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### `03 // EXPLORE`
+<h3>02 // AUTOMATE</h3>
 
-**Experimenting**
+<b>Optimizing</b>
 
-AI, creative interfaces, games and new technologies.
+<p>Workflows, integrations and intelligent processes.</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>03 // EXPLORE</h3>
+
+<b>Experimenting</b>
+
+<p>AI, creative interfaces, games and emerging technologies.</p>
 
 </td>
 
 </tr>
-
 </table>
-
-<br />
 
 <div align="center">
 
 `PLAN` → `BUILD` → `DEBUG` → `SHIP` → `REPEAT`
 
-<br /><br />
+<br />
 
 <sub>
-My contribution graph is available directly below this README, including anonymized private contributions when enabled in GitHub settings.
+The official GitHub contribution calendar below this README includes anonymized private contributions when enabled in profile settings.
 </sub>
 
 </div>
 
 <div align="center">
-  <img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
+<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
 </div>
 
 <!-- ======================================================= -->
@@ -686,68 +516,74 @@ My contribution graph is available directly below this README, including anonymi
 
 <div align="center">
 
-### `NOT EVERYTHING HAS TO BE A CLIENT PROJECT`
+**NOT EVERYTHING HAS TO BE A CLIENT PROJECT**
 
 </div>
 
-<table width="100%">
+<br />
 
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎮 Gaming & Modding
+<h3>🎮 Gaming & Modding</h3>
 
-- Game modifications
-- Custom launchers
-- Interface customization
-- Wallpapers and visual effects
-- Desktop utilities
-- Quality-of-life improvements
+<ul>
+<li>Game modifications</li>
+<li>Custom launchers</li>
+<li>Interface customization</li>
+<li>Wallpapers and visual effects</li>
+<li>Desktop utilities</li>
+<li>Quality-of-life improvements</li>
+</ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🦊 Anime & Creative Development
+<h3>🦊 Anime & Creative Development</h3>
 
-- Zenless Zone Zero
-- Hoshimi Miyabi
-- Anime-inspired interfaces
-- Creative UI experiments
-- Cyberpunk aesthetics
-- Personal development projects
+<ul>
+<li>Zenless Zone Zero</li>
+<li>Hoshimi Miyabi</li>
+<li>Anime-inspired interfaces</li>
+<li>Creative UI experiments</li>
+<li>Cyberpunk aesthetics</li>
+<li>Personal development projects</li>
+</ul>
 
 </td>
 
 </tr>
-
 </table>
 
 <br />
 
 <div align="center">
 
+<img src="./assets/emblema-raposa.svg" width="65" alt="SH3DOW Fox Emblem" />
+
+<br />
+
+<b>CURRENT OBSESSION</b>
+
+<br />
+
 <img
-  src="./assets/emblema-raposa.svg"
-  width="75"
-  alt="SH3DOW Fox Emblem"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1400&color=FF365E&center=true&vCenter=true&width=650&height=45&lines=Zenless+Zone+Zero;Hoshimi+Miyabi;Game+Modding;Creative+Development"
+  width="85%"
+  alt="Current interests"
 />
 
 <br />
 
-**CURRENT OBSESSION**
-
-`ZENLESS ZONE ZERO // HOSHIMI MIYABI`
-
-<br /><br />
-
-> "Sometimes the best projects are the ones you build just because you want them to exist."
+<i>Sometimes the best projects are the ones you build just because you want them to exist.</i>
 
 </div>
 
 <div align="center">
-  <img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
+<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
 </div>
 
 <!-- ======================================================= -->
@@ -756,159 +592,108 @@ My contribution graph is available directly below this README, including anonymi
 
 ## `08 // CONNECTIONS` <sub>FIND ME ONLINE</sub>
 
-<table width="100%">
+<div align="center">
 
+**FIND ME AROUND THE INTERNET**
+
+</div>
+
+<br />
+
+<!-- UNIFIED SOCIAL GRID -->
+
+<table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
-
-### `ALAN // PROFESSIONAL`
-
-<br />
-
-<a href="https://www.linkedin.com/in/alan-silva-pereira-david/">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<br /><br />
-
-<a href="https://auracriativa.com/">
-  <img
-    src="https://img.shields.io/badge/AURA%20CRIATIVA-E72085?style=for-the-badge&logoColor=white"
-    alt="Aura Criativa"
-  />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/Stealth-Sh3dow">
-  <img
-    src="https://img.shields.io/badge/GITHUB-171A25?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
+<td width="25%" align="center">
+<a href="https://www.linkedin.com/in/alan-silva-pereira-david/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="25%" align="center">
+<a href="https://auracriativa.com/"><img src="https://img.shields.io/badge/AURA-E72085?style=for-the-badge&logoColor=white" alt="Aura Criativa" /></a>
+</td>
 
-### `SH3DOW // DIGITAL IDENTITY`
+<td width="25%" align="center">
+<a href="https://github.com/Stealth-Sh3dow"><img src="https://img.shields.io/badge/GITHUB-171A25?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</td>
 
-<br />
-
-<a href="https://github.com/Stealth-Sh3dow">
-  <img
-    src="https://img.shields.io/badge/SH3DOW-GITHUB-30E4F3?style=for-the-badge&logo=github&logoColor=white&labelColor=07101B"
-    alt="SH3DOW GitHub"
-  />
-</a>
-
-<br /><br />
-
-<a href="https://www.tiktok.com/@stealth_shadow">
-  <img
-    src="https://img.shields.io/badge/TIKTOK-SH3DOW-FF365E?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=07101B"
-    alt="SH3DOW TikTok"
-  />
-</a>
-
-<!--
-  ADD YOUR VERIFIED SOCIAL LINKS HERE:
-
-  YouTube:
-  Steam:
-  Discord:
-  Personal Instagram:
-  Personal TikTok:
-
-  Example:
-
-  <a href="YOUR_PROFILE_URL">
-    <img src="https://img.shields.io/badge/YOUTUBE-SH3DOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
--->
-
+<td width="25%" align="center">
+<a href="https://www.tiktok.com/@stealth_shadow"><img src="https://img.shields.io/badge/TIKTOK-071422?style=for-the-badge&logo=tiktok&logoColor=FF365E" alt="TikTok" /></a>
 </td>
 
 </tr>
-
 </table>
+
+<!--
+ADDITIONAL SOCIAL PROFILES
+
+Add verified URLs when available:
+
+YouTube:
+Discord:
+Steam:
+Instagram:
+-->
 
 <br />
 
 <div align="center">
 
-<img
-  src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-30E4F3?style=flat-square&labelColor=07101B"
-  alt="Open to collaboration"
-/>
+<p align="center">
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-30E4F3?style=flat-square&labelColor=07101B" alt="Collaboration" />
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING-A88BFF?style=flat-square&labelColor=07101B" alt="Learning" />
+<img src="https://img.shields.io/badge/FOREVER-CREATING-FF365E?style=flat-square&labelColor=07101B" alt="Creating" />
+</p>
 
-<img
-  src="https://img.shields.io/badge/ALWAYS-LEARNING-A88BFF?style=flat-square&labelColor=07101B"
-  alt="Always learning"
-/>
+</div>
 
-<img
-  src="https://img.shields.io/badge/FOREVER-CREATING-FF365E?style=flat-square&labelColor=07101B"
-  alt="Forever creating"
-/>
-
+<div align="center">
+<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
 </div>
 
 <!-- ======================================================= -->
 <!-- 09 // END OF TRANSMISSION                                -->
 <!-- ======================================================= -->
 
-<br />
+## `09 // END OF TRANSMISSION` <sub>SYSTEM IDLE</sub>
 
 <div align="center">
 
+<b>THANKS FOR VISITING MY LITTLE CORNER OF GITHUB.</b>
+
+<br /><br />
+
 <img
-  src="./assets/divisoria-neon.svg"
-  width="100%"
-  alt="Neon divider"
+  src="./assets/hoshimi_miyabi.png"
+  width="70%"
+  alt="Hoshimi Miyabi"
+/>
+
+<br /><br />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=1300&color=30E4F3&center=true&vCenter=true&width=650&height=50&lines=CODE+%2F%2F+AUTOMATE+%2F%2F+BUILD+%2F%2F+PLAY;SH3DOW+%2F%2F+END+OF+TRANSMISSION;SEE+YOU+IN+THE+NEXT+QUEST."
+  width="90%"
+  alt="End of transmission"
 />
 
 <br />
 
-### `09 // END OF TRANSMISSION`
-
-**THANKS FOR VISITING MY LITTLE CORNER OF GITHUB.**
-
-<br />
-
-<img
-  src="./assets/hoshimi_miyabi.png"
-  width="68%"
-  alt="Hoshimi Miyabi"
- />
-
-<br /><br />
-
-<img
-  src="https://img.shields.io/badge/SH3DOW-CODE%20%2F%2F%20AUTOMATE%20%2F%2F%20BUILD%20%2F%2F%20PLAY-07101B?style=for-the-badge&labelColor=FF365E&color=07101B"
-  alt="SH3DOW"
- />
-
-<br /><br />
-
 <sub>
-  Inspired by Zenless Zone Zero and Hoshimi Miyabi.
-  Personal fan-made developer profile.
+Inspired by Zenless Zone Zero and Hoshimi Miyabi.<br />
+Personal fan-made developer profile.
 </sub>
 
 <br /><br />
+
+<img src="./assets/emblema-raposa.svg" width="45" alt="SH3DOW" />
+
+<br />
 
 <sub>🦊 SH3DOW // SYSTEM ONLINE</sub>
 
 </div>
 
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║ END OF PROFILE                                           ║
-  ║ SH3DOW // STEALTH-SH3DOW                                 ║
-  ╚══════════════════════════════════════════════════════════╝
--->
+<!-- ======================================================= -->
+<!-- SH3DOW // END OF PROFILE                                 -->
+<!-- ======================================================= -->
