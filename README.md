@@ -1,54 +1,187 @@
-<p align="center">
-  <img src="./assets/miyabi-zzz.gif" alt="Miyabi ZZZ GIF" width="420" />
-</p>
+<!--
+  SH3DOW // GitHub Profile README v2.0
+  GitHub username: Stealth-Sh3dow
+  Required repository: Stealth-Sh3dow/Stealth-Sh3dow (PUBLIC)
+  All local images are stored in ./assets/ .
+  Keep the image filenames unchanged when uploading.
+-->
 
-<h1 align="center">Hi 👋, I'm Alan David</h1>
+<div align="center">
+  <img src="./assets/banner-sh3dow-animado.gif" width="100%" alt="SH3DOW animated cyber-anime profile banner" />
+  <br />
+  <img src="./assets/faixa-olhos-miyabi.png" width="92%" alt="Miyabi-inspired close-up illustration" />
+  <br /><br />
 
-<h3 align="center">
-  Full Stack Developer | Automation & AI Engineer | Building web, e-commerce and AI-powered solutions
-</h3>
+ <!--<a href="https://alan-david-portfolio.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-071422?style=for-the-badge&amp;logo=vercel&amp;logoColor=30E4F3&amp;labelColor=071422" alt="Portfolio" /></a>-->
+  <a href="https://www.linkedin.com/in/alan-silva-pereira-david/"><img src="https://img.shields.io/badge/LINKEDIN-071422?style=for-the-badge&amp;logo=linkedin&amp;logoColor=30E4F3&amp;labelColor=071422" alt="LinkedIn" /></a>
+  <a href="https://auracriativa.com/"><img src="https://img.shields.io/badge/AURA%20CRIATIVA-071422?style=for-the-badge&amp;logoColor=FF365E&amp;labelColor=071422" alt="Aura Criativa" /></a>
+  <br /><br />
+  <img src="./assets/badge-especialidades.svg" width="83%" alt="Full Stack, Automation, AI and Creative Tools" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlanDavid-007&label=Profile%20views&color=00bfff&style=for-the-badge" alt="AlanDavid-007 profile views" />
-</p>
+<br />
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanDavid-007&label=Profile views&color=0e75b6&style=flat" alt="AlanDavid-007" /> </p> -->
+## `01 // AGENT DOSSIER` <sub>ABOUT ME</sub>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlanDavid-007" alt="AlanDavid-007" /></a> </p> -->
+```ts
+const sh3dow = {
+  name: "Alan David",
+  alias: "SH3DOW",
+  github: "Stealth-Sh3dow",
+  role: "Full Stack Developer",
+  experience: "5+ years",
+  base: "Brazil",
+  focus: ["Web", "Automation", "AI", "E-commerce"],
+  sideQuests: ["Game modding", "Creative tools", "Anime"],
+  status: "Building things I wish existed."
+};
+```
 
-- 🔭 I'm currently working on **Scalable web applications, e-commerce integrations, CRM automations, AI workflows and SaaS products using Next.js, Node.js, PHP, Python, Supabase, n8n and Docker.**
+Hey! I'm **Alan David**, also known as **SH3DOW**. I'm a full stack developer with **5+ years of experience** designing and building websites, web applications, e-commerce experiences, SaaS products, APIs and automation systems.
 
-- 🌱 I'm currently learning **Advanced AI agents, LLM automation, cloud architecture, Shopify/CRM integrations, performance optimization and scalable backend systems.**
+I enjoy connecting the dots between **frontend, backend, databases, cloud platforms, AI and business workflows**. Outside client work, I experiment with desktop customization, game mods, interfaces and tools inspired by the things I love.
 
-- 👯 I'm looking to collaborate on **AI automation projects, e-commerce platforms, SaaS products, CRM integrations, marketing automation tools and open-source developer utilities.**
+- **Web engineering:** React, Next.js, TypeScript, Node.js, PHP/Laravel and Python.
+- **Automation & integrations:** n8n, webhooks, REST/GraphQL, CRMs, ERPs, synchronization and resilient workflows.
+- **AI engineering:** LLM integrations, AI agents, OpenAI, Claude and prompt engineering.
+- **Commerce & payments:** Shopify, Nuvemshop, WBuy, AppMax, checkout and order flows.
+- **CRM & marketing tech:** GoHighLevel/LeadConnector, Meta Ads, Google Ads, GTM and Analytics.
+- **Creative development:** Hydra Launcher customization, themes, effects and desktop tooling.
 
-- 🤝 I'm looking for help with **Scaling AI-powered automation products, improving system architecture and building more robust developer tools.**
+> 🦊 **Code is my craft. Building weirdly specific things is my hobby.**
 
-- 💬 Ask me about **Full stack development, Next.js, React, Node.js, PHP, Python, Supabase, Shopify APIs, CRM integrations, n8n workflows, e-commerce automation and AI-powered systems.**
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Neon divider" /></div>
 
-- 📫 How to reach me **alandaviddev@gmail.com**
+## `02 // TECH ARSENAL` <sub>LANGUAGES, FRAMEWORKS & TOOLS</sub>
 
-- ⚡ Fun fact **Powered by code, automations and probably too much Monster Energy.**
+<table width="100%">
+  <tr>
+    <td width="50%" align="center"><img src="./assets/stack-frontend.png" width="100%" alt="Frontend stack" /></td>
+    <td width="50%" align="center"><img src="./assets/stack-backend.png" width="100%" alt="Backend stack" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/stack-dados.png" width="100%" alt="Databases and cloud" /></td>
+    <td align="center"><img src="./assets/stack-automacao-ia.png" width="100%" alt="Automation and AI" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/stack-ecommerce.png" width="100%" alt="E-commerce and payments" /></td>
+    <td align="center"><img src="./assets/stack-crm-marketing.png" width="100%" alt="CRM and marketing" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="./assets/stack-infra.png" width="75%" alt="DevOps and infrastructure" /></td>
+  </tr>
+</table>
 
-- 👨‍💻 All of my services and career history at **[https://alan-david-portfolio.dev/](https://alan-david-portfolio.dev/)**
+<details>
+<summary><b>🛠️ Expanded toolkit</b></summary>
 
-- 📝 I regularly update my work on **[https://auracriativa.com/](https://auracriativa.com/)**
+<br />
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1635SE0eIA0CLjBE6vx3m1jYE4IB4PkIV/view?usp=sharing](https://drive.google.com/file/d/1635SE0eIA0CLjBE6vx3m1jYE4IB4PkIV/view?usp=sharing)**
+| Domain | Technologies and capabilities |
+| :--- | :--- |
+| **Frontend & UI** | React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, responsive design and UI/UX |
+| **Backend & Mobile** | Node.js, PHP, Laravel, Python, Kotlin/Android, API design, REST, GraphQL and webhooks |
+| **Data & Storage** | PostgreSQL, MySQL, Supabase, Firebase, SQL, data modeling and synchronization |
+| **Automation & Systems** | n8n, workflow orchestration, external APIs, queues, pagination, rate limits, retries, error handling and monitoring |
+| **AI & LLMs** | OpenAI, Claude, agent workflows, model integrations, structured outputs and prompt engineering |
+| **E-commerce & Payments** | Shopify, Nuvemshop, WBuy, AppMax, storefronts, webhooks, checkout, orders and customer data |
+| **CRM & Marketing** | GoHighLevel, LeadConnector, Meta Ads, Google Ads, Google Tag Manager, Google Analytics and conversion tracking |
+| **Infrastructure & Dev Tools** | Docker, Git, GitHub, Vercel, Linux, VPS, CI/CD, deployment workflows and environment configuration |
+| **Creative Development** | Electron, modding, Hydra Launcher, CSS themes, motion effects, desktop apps, wallpapers and interface customization |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/AlanDavid-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AlanDavid-007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alan-silva-pereira-david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-silva-pereira-david" height="30" width="40" /></a>
-<a href="https://instagram.com/alanzoka_david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alanzoka_david" height="30" width="40" /></a>
-</p>
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/codeigniter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gatsby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gatsby" alt="gatsby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ionic" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/puppeteer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Neon divider" /></div>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanDavid-007&show_icons=true&locale=en&layout=compact" alt="AlanDavid-007" /></p>
+## `03 // CURRENT MISSIONS` <sub>FEATURED PROJECTS</sub>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanDavid-007&show_icons=true&locale=en" alt="AlanDavid-007" /></p> -->
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <img src="./assets/projeto-spectra.png" width="100%" alt="SPECTRA launcher customization" />
+      <br /><b>🎮 SPECTRA / Launcher Mods</b><br />
+      <sub>Hydra Launcher customization: themes, wallpapers, effects, Safe Mode, mod management and desktop tooling.</sub>
+      <br /><code>Node.js</code> <code>Electron</code> <code>UI/UX</code>
+    </td>
+    <td width="33%" valign="top">
+      <img src="./assets/projeto-aura-os.png" width="100%" alt="Aura OS featuring the official Aura Criativa wordmark" />
+      <br /><b>💗 Aura Criativa / Aura OS</b><br />
+      <sub>A growing ecosystem of web apps, CRM workflows, automations and AI-driven business tools.</sub>
+      <br /><code>Next.js</code> <code>Supabase</code> <code>n8n</code>
+    </td>
+    <td width="33%" valign="top">
+      <img src="./assets/projeto-integracoes.png" width="100%" alt="Integrations and automations" />
+      <br /><b>⚡ Integrations & Automation</b><br />
+      <sub>Connectors between stores, CRMs, APIs and external platforms, with reliable data flows.</sub>
+      <br /><code>REST</code> <code>Webhooks</code> <code>AI</code>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanDavid-007&" alt="AlanDavid-007" /></p>
+<sub>🔒 A significant part of my work lives in private repositories. Client source code, credentials and sensitive data remain private.</sub>
 
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Neon divider" /></div>
+
+## `04 // PROFESSIONAL FOCUS` <sub>WHAT I BUILD</sub>
+
+<div align="center">
+  <img src="./assets/areas-de-atuacao.png" width="100%" alt="Full Stack, Automation, AI, E-commerce, CRM and Game Mods" />
+</div>
+
+I work across the entire delivery cycle, from planning and UI to APIs, database modeling, integration architecture, deployment, iteration and maintenance. I especially enjoy projects where **software, automation and thoughtful design** meet.
+
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Neon divider" /></div>
+
+## `05 // GITHUB STATS` <sub>CODE & CONTRIBUTIONS</sub>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stealth-Sh3dow&amp;show_icons=true&amp;hide_border=true&amp;bg_color=07101B&amp;title_color=30E4F3&amp;text_color=E8F7FF&amp;icon_color=FF365E&amp;ring_color=30E4F3" height="170" alt="SH3DOW GitHub public statistics" />
+</div>
+
+<sub>📊 Third-party stats primarily reflect data accessible to the service. My native GitHub contribution calendar below this README includes anonymous private contributions whenever GitHub's private-contribution setting is enabled.</sub>
+
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Neon divider" /></div>
+
+## `06 // ACTIVITY LOG` <sub>ONGOING QUEST</sub>
+
+<div align="center">
+
+**PUBLIC PROJECTS · PRIVATE CONTRIBUTIONS · ALWAYS LEARNING**
+
+`PLAN` &nbsp; `BUILD` &nbsp; `AUTOMATE` &nbsp; `DEBUG` &nbsp; `REPEAT`
+
+</div>
+
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Neon divider" /></div>
+
+## `07 // BEYOND THE CODE` <sub>PERSONAL QUESTS</sub>
+
+- 🎮 **Game mods & customization:** launcher themes, visual effects, wallpapers and desktop experiences.
+- 🦊 **Anime & games:** a particular soft spot for Zenless Zone Zero and Miyabi-inspired visuals.
+- 🧩 **Creative tools:** utilities, UI experiments and little quality-of-life improvements.
+- ⚡ **Automation for fun:** if a task repeats, I'll probably try building a workflow for it.
+
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Neon divider" /></div>
+
+## `08 // CONNECTIONS` <sub>FIND ME ONLINE</sub>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alan-silva-pereira-david/"><img src="https://img.shields.io/badge/LinkedIn-Alan%20David-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <!-- <a href="https://alan-david-portfolio.dev/"><img src="https://img.shields.io/badge/Portfolio-Projects-1D2736?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a> -->
+  <a href="https://auracriativa.com/"><img src="https://img.shields.io/badge/Aura%20Criativa-Creative%20Systems-E72085?style=for-the-badge" alt="Aura Criativa" /></a>
+  <a href="https://github.com/Stealth-Sh3dow"><img src="https://img.shields.io/badge/GitHub-Stealth--Sh3dow-171A25?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</div>
+
+<!--
+  OPTIONAL SH3DOW NETWORK:
+  Add your verified YouTube, TikTok, Discord and Steam profile URLs here.
+  No social links have been invented or guessed.
+-->
+
+<br />
+
+<div align="center">
+  <img src="./assets/rodape-miyabi.png" width="100%" alt="Blue moon and samurai-inspired anime artwork" />
+  <br />
+  <sub>🦊 SH3DOW // END OF TRANSMISSION</sub>
+</div>
