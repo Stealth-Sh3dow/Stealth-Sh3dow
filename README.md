@@ -182,7 +182,7 @@ I work across the entire delivery cycle, from planning and UI to APIs, database 
 <br />
 
 <div align="center">
-  <img src="./assets/miyabi .gif" width="100%" alt="Blue moon and samurai-inspired anime artwork" />
+  <img src="./assets/hoshimi_miyabi.png" width="100%" alt="Blue moon and samurai-inspired anime artwork" />
   <br />
   <sub>🦊 SH3DOW // END OF TRANSMISSION</sub>
 </div>
