@@ -139,8 +139,6 @@ I work across the entire delivery cycle, from planning and UI to APIs, database 
   <img src="./assets/languages-sh3dow.svg" height="185" alt="SH3DOW most used languages" />
 </div>
 
-<sub>📊 Updated daily by GitHub Actions. These cards currently use GitHub's built-in token for accessible repository statistics. Private repository metrics require the optional `README_STATS_PAT` Actions secret. The official contribution calendar beneath the README includes anonymized private contributions when enabled in GitHub settings.</sub>
-
 <div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Neon divider" /></div>
 
 ## `06 // ACTIVITY LOG` <sub>ONGOING QUEST</sub>
