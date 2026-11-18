@@ -49,20 +49,16 @@ jobs:
           token: ${{ secrets.README_STATS_PAT || github.token }}
           fail_on_error: true
 
-      - name: Generate top languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: 'username=Stealth-Sh3dow&layout=compact&langs_count=10&hide_border=true&bg_color=07101B&title_color=30E4F3&text_color=E8F7FF'
-          path: assets/languages-sh3dow.svg
-          token: ${{ secrets.README_STATS_PAT || github.token }}
-          fail_on_error: true
+      - name: Collect full-account statistics and language coverage
+        env:
+          GITHUB_API_TOKEN: ${{ secrets.README_STATS_PAT }}
+        run: python3 scripts/generate_profile_metrics.py
 
       - name: Commit updated SVG cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats-sh3dow.svg assets/languages-sh3dow.svg
+          git add assets/stats-sh3dow.svg assets/account-sh3dow.svg assets/languages-sh3dow.svg assets/languages-bytes-sh3dow.svg
           if ! git diff --cached --quiet; then
             git commit -m "chore: refresh SH3DOW statistics"
             # The README may change while cards are generated. Rebase onto the
