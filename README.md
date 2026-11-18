@@ -1,7 +1,7 @@
 <!--
   ============================================================
   SH3DOW // GITHUB PROFILE
-  VERSION: 3.1
+  VERSION: 3.2
   USERNAME: Stealth-Sh3dow
   THEME: ZENLESS ZONE ZERO / HOSHIMI MIYABI
 
@@ -10,6 +10,8 @@
   Assets: ./assets/
   ============================================================
 -->
+
+<a name="top"></a>
 
 <div align="center">
 
@@ -51,12 +53,25 @@
 <br />
 
 <div align="center">
-<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
+  <sub>QUICK NAVIGATION // SELECT A DESTINATION</sub>
+  <br /><br />
+  <a href="#about"><img src="https://img.shields.io/badge/01-ABOUT-30E4F3?style=flat-square&amp;labelColor=07101B" alt="About" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/02-STACK-FF365E?style=flat-square&amp;labelColor=07101B" alt="Stack" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/03-PROJECTS-30E4F3?style=flat-square&amp;labelColor=07101B" alt="Projects" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/05-STATS-A88BFF?style=flat-square&amp;labelColor=07101B" alt="Stats" /></a>
+  <a href="#extras"><img src="https://img.shields.io/badge/07-EXTRAS-FF365E?style=flat-square&amp;labelColor=07101B" alt="Beyond the code" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/08-CONNECT-30E4F3?style=flat-square&amp;labelColor=07101B" alt="Connect" /></a>
 </div>
+
+<br />
+
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" /></div>
 
 <!-- ======================================================= -->
 <!-- 01 // AGENT DOSSIER                                      -->
 <!-- ======================================================= -->
+
+<a name="about"></a>
 
 ## `01 // AGENT DOSSIER` <sub>IDENTITY & BACKGROUND</sub>
 
@@ -139,6 +154,8 @@ Build useful software, explore emerging technologies and create things I genuine
 <!-- 02 // TECH ARSENAL                                       -->
 <!-- ======================================================= -->
 
+<a name="stack"></a>
+
 ## `02 // TECH ARSENAL` <sub>LANGUAGES, FRAMEWORKS & TOOLS</sub>
 
 <div align="center">
@@ -213,195 +230,87 @@ Build useful software, explore emerging technologies and create things I genuine
 <!-- 03 // CURRENT MISSIONS                                   -->
 <!-- ======================================================= -->
 
+<a name="projects"></a>
+
 ## `03 // CURRENT MISSIONS` <sub>PROJECTS & EXPERIMENTS</sub>
 
-<div align="center">
-
-**SELECTED PROJECTS FROM MY DEVELOPMENT JOURNEY**
-
-`SOFTWARE` · `AUTOMATION` · `CREATIVE TOOLS`
-
-</div>
+<div align="center"><sub>SELECTED WORK // CREATIVE SYSTEMS & EXPERIMENTS</sub></div>
 
 <br />
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
-
-<img src="./assets/projeto-spectra.png" width="100%" alt="SPECTRA" />
-
-<h3>🎮 SPECTRA / Launcher Mods</h3>
-
-<p>
-A personal project focused on extending and customizing the Hydra Launcher experience.
-</p>
-
-<b>Features & Experiments</b>
-
-<ul>
-<li>Custom themes and interfaces</li>
-<li>Dynamic wallpapers</li>
-<li>Visual effects and transitions</li>
-<li>Safe Mode</li>
-<li>Mod management tools</li>
-<li>Desktop automation</li>
-</ul>
-
-<code>Node.js</code>
-<code>Electron</code>
-<code>JavaScript</code>
-<code>CSS</code>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-30E4F3?style=flat-square&labelColor=07101B" alt="Development status" />
-
+  <img src="./assets/projeto-spectra.png" width="100%" alt="SPECTRA Launcher Mods" />
+  <h3>🎮 SPECTRA / Launcher Mods</h3>
+  <p>A personal playground for customizing the Hydra Launcher with expressive interfaces and new desktop features.</p>
+  <ul>
+    <li>Theme engine, wallpapers and visual effects</li>
+    <li>Safe Mode and customization controls</li>
+    <li>Launcher integration and mod tooling</li>
+  </ul>
+  <code>Node.js</code> <code>Electron</code> <code>JavaScript</code> <code>CSS</code>
+  <br /><br />
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-30E4F3?style=flat-square&amp;labelColor=07101B" alt="In development" />
 </td>
-
 <td width="50%" valign="top">
-
-<img src="./assets/projeto-aura-os.png" width="100%" alt="Aura OS" />
-
-<h3>💗 Aura Criativa / Aura OS</h3>
-
-<p>
-An ecosystem of applications and automation solutions supporting creative and business operations.
-</p>
-
-<b>Areas of Development</b>
-
-<ul>
-<li>Web applications and dashboards</li>
-<li>CRM and lead management</li>
-<li>Business process automation</li>
-<li>AI-powered workflows</li>
-<li>Data integrations</li>
-<li>Operational intelligence</li>
-</ul>
-
-<code>Next.js</code>
-<code>Supabase</code>
-<code>TypeScript</code>
-<code>n8n</code>
-
-<br /><br />
-
-<a href="https://auracriativa.com/"><img src="https://img.shields.io/badge/EXPLORE-AURA%20CRIATIVA-FF365E?style=flat-square&labelColor=07101B" alt="Aura Criativa" /></a>
-
+  <img src="./assets/projeto-aura-os.png" width="100%" alt="Aura Criativa / Aura OS" />
+  <h3>💗 Aura Criativa / Aura OS</h3>
+  <p>An evolving ecosystem that connects creative operations, business software, automation and AI.</p>
+  <ul>
+    <li>Applications, dashboards and CRM workflows</li>
+    <li>Data integrations and business automation</li>
+    <li>AI-powered tools and operational systems</li>
+  </ul>
+  <code>Next.js</code> <code>Supabase</code> <code>TypeScript</code> <code>n8n</code>
+  <br /><br />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-FF365E?style=flat-square&amp;labelColor=07101B" alt="Active development" />
 </td>
-
 </tr>
 </table>
-
-<!-- INTEGRATION PROJECT -->
 
 <table width="100%">
 <tr>
-
 <td width="38%" valign="middle">
-<img src="./assets/projeto-integracoes.png" width="100%" alt="Integrations" />
+  <img src="./assets/projeto-integracoes.png" width="100%" alt="Integrations and Automation" />
 </td>
-
 <td width="62%" valign="middle">
-
-<h3>⚡ Integrations & Automation</h3>
-
-<p>
-Building connections between platforms, APIs and business systems.
-</p>
-
-<p>
-My integration work includes e-commerce platforms, CRMs, payment services, external databases, scheduling systems and intelligent workflows.
-</p>
-
-<code>REST</code>
-<code>GraphQL</code>
-<code>Webhooks</code>
-<code>n8n</code>
-<code>AI</code>
-
+  <h3>⚡ Integrations & Automation</h3>
+  <p>Connecting e-commerce, CRMs, payments and external platforms through reliable APIs and workflows.</p>
+  <code>REST</code> <code>GraphQL</code> <code>Webhooks</code> <code>n8n</code> <code>AI</code>
 </td>
-
 </tr>
 </table>
 
-> 🔒 Many of my professional projects live in private repositories. Client source code, credentials and business information remain confidential.
+<div align="center"><sub>Selected work, ongoing experiments and projects built along the way.</sub></div>
 
-<div align="center">
-<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
-</div>
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" /></div>
 
 <!-- ======================================================= -->
 <!-- 04 // PROFESSIONAL FOCUS                                 -->
 <!-- ======================================================= -->
 
+<a name="focus"></a>
+
 ## `04 // PROFESSIONAL FOCUS` <sub>WHAT I BUILD</sub>
 
 <div align="center">
-<img src="./assets/areas-de-atuacao.png" width="100%" alt="Areas of expertise" />
+  <img src="./assets/areas-de-atuacao.png" width="100%" alt="Full Stack, Automation, AI, E-commerce, CRM and Creative Development" />
+  <br /><br />
+  From interfaces and APIs to data pipelines, intelligent workflows and deployment.
+  <br /><br />
+  `DESIGN` → `DEVELOP` → `INTEGRATE` → `AUTOMATE` → `DEPLOY`
 </div>
 
 <br />
 
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-<h3>01 // BUILD</h3>
-
-<b>Full Stack Development</b>
-
-<p>
-Web applications, APIs, SaaS platforms, interfaces and custom software solutions.
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>02 // CONNECT</h3>
-
-<b>Automation & Integrations</b>
-
-<p>
-Connecting services, synchronizing data and designing reliable workflows.
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>03 // INTELLIGENCE</h3>
-
-<b>AI & Data Systems</b>
-
-<p>
-Integrating language models, intelligent agents, databases and automation.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-`DESIGN` → `DEVELOP` → `INTEGRATE` → `AUTOMATE` → `DEPLOY`
-
-</div>
-
-<br />
-
-<div align="center">
-<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
-</div>
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" /></div>
 
 <!-- ======================================================= -->
 <!-- 05 // GITHUB STATS                                       -->
 <!-- ======================================================= -->
+
+<a name="stats"></a>
 
 ## `05 // GITHUB STATS` <sub>ACTIVITY & LANGUAGES</sub>
 
@@ -444,11 +353,13 @@ Integrating language models, intelligent agents, databases and automation.
 
 <div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" /></div>
 
+<a name="activity"></a>
+
 ## `06 // ACTIVITY LOG` <sub>DEVELOPMENT ACTIVITY</sub>
 
 <div align="center">
 
-**PUBLIC PROJECTS · PRIVATE CONTRIBUTIONS · CONTINUOUS DEVELOPMENT**
+**BUILDING · CONTRIBUTING · EXPERIMENTING**
 
 <br />
 
@@ -508,6 +419,8 @@ Integrating language models, intelligent agents, databases and automation.
 <!-- ======================================================= -->
 <!-- 07 // BEYOND THE CODE                                    -->
 <!-- ======================================================= -->
+
+<a name="extras"></a>
 
 ## `07 // BEYOND THE CODE` <sub>PERSONAL QUESTS</sub>
 
@@ -587,6 +500,8 @@ Integrating language models, intelligent agents, databases and automation.
 <!-- 08 // CONNECTIONS                                       -->
 <!-- ======================================================= -->
 
+<a name="connect"></a>
+
 ## `08 // CONNECTIONS` <sub>FIND ME ONLINE</sub>
 
 <div align="center">
@@ -640,6 +555,8 @@ Integrating language models, intelligent agents, databases and automation.
 <!-- ======================================================= -->
 <!-- 09 // END OF TRANSMISSION                                -->
 <!-- ======================================================= -->
+
+<a name="end"></a>
 
 ## `09 // END OF TRANSMISSION` <sub>SYSTEM IDLE</sub>
 
