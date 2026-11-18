@@ -27,6 +27,16 @@ jobs:
       - name: Create assets directory
         run: mkdir -p assets
 
+      - name: Check private statistics authentication
+        env:
+          PRIVATE_STATS_TOKEN_CONFIGURED: ${{ secrets.README_STATS_PAT != '' }}
+        run: |
+          if [ "$PRIVATE_STATS_TOKEN_CONFIGURED" = "true" ]; then
+            echo "::notice::README_STATS_PAT is configured. Private repository metrics will be requested."
+          else
+            echo "::warning::README_STATS_PAT not found. Only public/accessible metrics will be available."
+          fi
+
       # Works with GITHUB_TOKEN for public stats. To include private repositories,
       # add a repository Actions secret named README_STATS_PAT with the required
       # permissions. Do not put tokens in this public workflow or the README.
@@ -34,7 +44,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: 'username=Stealth-Sh3dow&show_icons=true&include_all_commits=true&show=reviews,prs_merged&hide_border=true&bg_color=07101B&title_color=30E4F3&text_color=E8F7FF&icon_color=FF365E&ring_color=30E4F3&custom_title=SH3DOW%20%2F%2F%20GITHUB%20STATS'
+          options: 'username=Stealth-Sh3dow&show_icons=true&include_all_commits=true&hide_rank=true&show=reviews,prs_merged&hide_border=true&bg_color=07101B&title_color=30E4F3&text_color=E8F7FF&icon_color=FF365E&ring_color=30E4F3&custom_title=SH3DOW%20%2F%2F%20GITHUB%20STATS'
           path: assets/stats-sh3dow.svg
           token: ${{ secrets.README_STATS_PAT || github.token }}
           fail_on_error: true
