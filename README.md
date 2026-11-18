@@ -403,43 +403,53 @@ Integrating language models, intelligent agents, databases and automation.
 <!-- 05 // GITHUB STATS                                       -->
 <!-- ======================================================= -->
 
-## `05 // GITHUB STATS` <sub>CODE & CONTRIBUTIONS</sub>
+## `05 // GITHUB STATS` <sub>FULL ACCOUNT · CODE & CONTRIBUTIONS</sub>
 
-<!-- TWO-COLUMN STATISTICS GRID -->
+<!-- Figures are generated daily from authenticated GitHub data.
+     Private repository names, file contents, and secrets are never published. -->
 
 <table width="100%">
 <tr>
-
-<td width="58%" align="center" valign="middle">
-<img src="./assets/stats-sh3dow.svg" width="100%" alt="SH3DOW GitHub Statistics" />
+<td width="54%" align="center" valign="top">
+  <img src="./assets/stats-sh3dow.svg" width="100%" alt="SH3DOW authored commits, pull requests, stars and issues" />
 </td>
-
-<td width="42%" align="center" valign="middle">
-<img src="./assets/languages-sh3dow.svg" width="100%" alt="Most Used Languages" />
+<td width="46%" align="center" valign="top">
+  <img src="./assets/languages-sh3dow.svg" width="100%" alt="Programming languages by number of accessible repositories, including private projects" />
 </td>
-
 </tr>
 </table>
 
+<br />
+
 <div align="center">
-
-<a href="https://github.com/Stealth-Sh3dow?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-30E4F3?style=for-the-badge&logo=github&logoColor=30E4F3&labelColor=07101B" alt="Explore repositories" /></a>
-
+  <img src="./assets/account-sh3dow.svg" width="100%" alt="Full account overview: accessible repositories, public and private counts, and GitHub-recognized contributions" />
 </div>
 
 <br />
 
-<sub>
-📊 Statistics are updated by GitHub Actions. Available metrics depend on repository permissions. Language percentages represent analyzed code, not professional proficiency.
-</sub>
-
+<details>
+<summary><b>📊 Explore language distribution by code volume</b></summary>
+<br />
 <div align="center">
-<img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" />
+  <img src="./assets/languages-bytes-sh3dow.svg" width="72%" alt="Language distribution by source code size across accessible repositories" />
 </div>
 
-<!-- ======================================================= -->
-<!-- 06 // ACTIVITY LOG                                       -->
-<!-- ======================================================= -->
+<sub>GitHub measures language size in bytes on repository default branches. Generated files, forks and large projects can influence these percentages. They are not a measure of personal proficiency or code authorship.</sub>
+</details>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Stealth-Sh3dow?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-30E4F3?style=for-the-badge&amp;logo=github&amp;logoColor=30E4F3&amp;labelColor=07101B" alt="Explore public repositories" />
+  </a>
+</div>
+
+<br />
+
+<sub>🔐 These metrics are automatically refreshed with GitHub Actions using authenticated access to public, private and permitted collaborative repositories. `Repo coverage` counts the repositories where a language appears, not lines personally written. `Contributions` follows GitHub's contribution-calendar rules and may differ from the number of commits or PRs shown above. Private repository names, links and source code are not disclosed.</sub>
+
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" /></div>
 
 ## `06 // ACTIVITY LOG` <sub>DEVELOPMENT ACTIVITY</sub>
 
