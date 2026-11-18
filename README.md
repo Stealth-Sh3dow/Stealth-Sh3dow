@@ -9,7 +9,7 @@
 <div align="center">
   <img src="./assets/banner-sh3dow-animado.gif" width="100%" alt="SH3DOW animated cyber-anime profile banner" />
   <br />
-  <img src="./assets/faixa-olhos-miyabi.png" width="92%" alt="Miyabi-inspired close-up illustration" />
+  <!-- <img src="./assets/faixa-olhos-miyabi.png" width="92%" alt="Miyabi-inspired close-up illustration" /> -->
   <br /><br />
 
  <!--<a href="https://alan-david-portfolio.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-071422?style=for-the-badge&amp;logo=vercel&amp;logoColor=30E4F3&amp;labelColor=071422" alt="Portfolio" /></a>-->
