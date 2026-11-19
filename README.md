@@ -481,6 +481,46 @@ Build useful software, explore emerging technologies and create things I genuine
 <div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" /></div>
 
 <!-- ======================================================= -->
+<!-- SPECIAL MENTION // ALLY UNLOCKED                         -->
+<!-- ======================================================= -->
+
+<div align="center">
+  <h3>🦊 HONORABLE MENTION // ALLY UNLOCKED 🦈</h3>
+  <sub>SH3DOW × KOIYUN // DIFFERENT AGENTS. SAME SQUAD.</sub>
+</div>
+
+<br />
+
+<table width="100%">
+<tr>
+<td width="24%" align="center" valign="middle">
+  <a href="https://github.com/moisesssbarbosa">
+    <img src="https://github.com/moisesssbarbosa.png?size=200" width="110" alt="Moisés Barbosa / Koiyun GitHub avatar" />
+  </a>
+  <br />
+  <sub><b>KOIYUN</b></sub>
+</td>
+<td width="76%" valign="middle">
+  <h3>🦈 Moisés Barbosa</h3>
+  <p><b>Friend. Former student. Fellow developer.</b></p>
+  <p>I got to introduce Moisés to programming and guide him through his first steps. Seeing him keep learning, building his own projects and finding his own style has been one of the coolest parts of that journey.</p>
+  <p>And yes, our GitHub profiles ended up in the same universe: <b>Miyabi</b> on my side, <b>Ellen Joe</b> on his. 🦊🦈</p>
+  <a href="https://github.com/moisesssbarbosa">
+    <img src="https://img.shields.io/badge/MEET-KOIYUN-E62E4D?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=07101B" alt="Visit Koiyun on GitHub" />
+  </a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <sub>FROM FIRST LINES OF CODE TO HIS OWN QUEST. KEEP BUILDING, BRO. ❤️</sub>
+</div>
+
+<br />
+
+<div align="center"><img src="./assets/divisoria-neon.svg" width="100%" alt="Divider" /></div>
+
+<!-- ======================================================= -->
 <!-- 09 // END OF TRANSMISSION                                -->
 <!-- ======================================================= -->
 
