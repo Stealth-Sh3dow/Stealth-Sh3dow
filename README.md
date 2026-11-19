@@ -55,12 +55,17 @@
 <div align="center">
   <sub>QUICK NAVIGATION // SELECT A DESTINATION</sub>
   <br /><br />
-  <a href="#about"><img src="https://img.shields.io/badge/01-ABOUT-30E4F3?style=flat-square&amp;labelColor=07101B" alt="About" /></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/02-STACK-FF365E?style=flat-square&amp;labelColor=07101B" alt="Stack" /></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/03-PROJECTS-30E4F3?style=flat-square&amp;labelColor=07101B" alt="Projects" /></a>
-  <a href="#stats"><img src="https://img.shields.io/badge/05-STATS-A88BFF?style=flat-square&amp;labelColor=07101B" alt="Stats" /></a>
-  <a href="#extras"><img src="https://img.shields.io/badge/07-EXTRAS-FF365E?style=flat-square&amp;labelColor=07101B" alt="Beyond the code" /></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/08-CONNECT-30E4F3?style=flat-square&amp;labelColor=07101B" alt="Connect" /></a>
+  <a href="#about"><img src="https://img.shields.io/badge/01-ABOUT-30E4F3?style=flat-square&amp;labelColor=07101B" alt="01 ABOUT" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/02-STACK-FF365E?style=flat-square&amp;labelColor=07101B" alt="02 STACK" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/03-PROJECTS-30E4F3?style=flat-square&amp;labelColor=07101B" alt="03 PROJECTS" /></a>
+  <a href="#focus"><img src="https://img.shields.io/badge/04-FOCUS-A88BFF?style=flat-square&amp;labelColor=07101B" alt="04 FOCUS" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/05-STATS-30E4F3?style=flat-square&amp;labelColor=07101B" alt="05 STATS" /></a>
+  <br /><br />
+  <a href="#activity"><img src="https://img.shields.io/badge/06-ACTIVITY-FF365E?style=flat-square&amp;labelColor=07101B" alt="06 ACTIVITY" /></a>
+  <a href="#extras"><img src="https://img.shields.io/badge/07-EXTRAS-A88BFF?style=flat-square&amp;labelColor=07101B" alt="07 EXTRAS" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/08-CONNECT-30E4F3?style=flat-square&amp;labelColor=07101B" alt="08 CONNECT" /></a>
+  <a href="#ally"><img src="https://img.shields.io/badge/ALLY-KOIYUN-FF365E?style=flat-square&amp;labelColor=07101B" alt="ALLY KOIYUN" /></a>
+  <a href="#end"><img src="https://img.shields.io/badge/09-END-30E4F3?style=flat-square&amp;labelColor=07101B" alt="09 END" /></a>
 </div>
 
 <br />
@@ -483,6 +488,8 @@ Build useful software, explore emerging technologies and create things I genuine
 <!-- ======================================================= -->
 <!-- SPECIAL MENTION // ALLY UNLOCKED                         -->
 <!-- ======================================================= -->
+
+<a name="ally"></a>
 
 <div align="center">
   <h3>🦊 HONORABLE MENTION // ALLY UNLOCKED 🦈</h3>
