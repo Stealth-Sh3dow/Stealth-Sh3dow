@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">SH3DOW // GITHUB STATS, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 28, Total Commits  : 1432, Total PRs: 186, Total PRs Merged: 171, Total Issues: 17</desc>
+        <desc id="descId">Total Stars Earned: 29, Total Commits  : 1450, Total PRs: 190, Total PRs Merged: 171, Total Issues: 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 116.06673264921143;
+        stroke-dashoffset: 113.89391611353669;
       }
     }
   
@@ -158,7 +158,7 @@
         x="174.01"
         y="12.5"
         data-testid="stars"
-      >28</text>
+      >29</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -188,7 +188,7 @@
         x="174.01"
         y="12.5"
         data-testid="prs"
-      >186</text>
+      >190</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -218,7 +218,7 @@
         x="174.01"
         y="12.5"
         data-testid="issues"
-      >17</text>
+      >20</text>
     </g>
   </g>
     </svg>
