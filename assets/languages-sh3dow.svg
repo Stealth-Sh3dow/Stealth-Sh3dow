@@ -5,17 +5,17 @@
 <rect x="23" y="75" width="8" height="8" rx="2" fill="#30E4F3"/>
 <text x="39" y="85" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">JavaScript</text>
 <rect x="198" y="75" width="163" height="9" rx="4" fill="#1A3043"/>
-<rect x="198" y="75" width="126" height="9" rx="4" fill="#30E4F3"/>
-<text x="451" y="85" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">58 repos</text>
+<rect x="198" y="75" width="127" height="9" rx="4" fill="#30E4F3"/>
+<text x="451" y="85" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">59 repos</text>
 <rect x="23" y="100" width="8" height="8" rx="2" fill="#FF365E"/>
 <text x="39" y="110" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">CSS</text>
 <rect x="198" y="100" width="163" height="9" rx="4" fill="#1A3043"/>
-<rect x="198" y="100" width="100" height="9" rx="4" fill="#FF365E"/>
+<rect x="198" y="100" width="99" height="9" rx="4" fill="#FF365E"/>
 <text x="451" y="110" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">46 repos</text>
 <rect x="23" y="125" width="8" height="8" rx="2" fill="#B59AFF"/>
 <text x="39" y="135" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">HTML</text>
 <rect x="198" y="125" width="163" height="9" rx="4" fill="#1A3043"/>
-<rect x="198" y="125" width="72" height="9" rx="4" fill="#B59AFF"/>
+<rect x="198" y="125" width="71" height="9" rx="4" fill="#B59AFF"/>
 <text x="451" y="135" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">33 repos</text>
 <rect x="23" y="150" width="8" height="8" rx="2" fill="#FFD66E"/>
 <text x="39" y="160" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">PHP</text>
@@ -25,12 +25,12 @@
 <rect x="23" y="175" width="8" height="8" rx="2" fill="#4DDBBD"/>
 <text x="39" y="185" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">TypeScript</text>
 <rect x="198" y="175" width="163" height="9" rx="4" fill="#1A3043"/>
-<rect x="198" y="175" width="37" height="9" rx="4" fill="#4DDBBD"/>
+<rect x="198" y="175" width="36" height="9" rx="4" fill="#4DDBBD"/>
 <text x="451" y="185" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">17 repos</text>
 <rect x="23" y="200" width="8" height="8" rx="2" fill="#7BA8FF"/>
 <text x="39" y="210" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">Hack</text>
 <rect x="198" y="200" width="163" height="9" rx="4" fill="#1A3043"/>
-<rect x="198" y="200" width="35" height="9" rx="4" fill="#7BA8FF"/>
+<rect x="198" y="200" width="34" height="9" rx="4" fill="#7BA8FF"/>
 <text x="451" y="210" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">16 repos</text>
 <rect x="23" y="225" width="8" height="8" rx="2" fill="#E0A9FF"/>
 <text x="39" y="235" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">Java</text>
@@ -40,7 +40,7 @@
 <rect x="23" y="250" width="8" height="8" rx="2" fill="#FF995D"/>
 <text x="39" y="260" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">SCSS</text>
 <rect x="198" y="250" width="163" height="9" rx="4" fill="#1A3043"/>
-<rect x="198" y="250" width="22" height="9" rx="4" fill="#FF995D"/>
+<rect x="198" y="250" width="21" height="9" rx="4" fill="#FF995D"/>
 <text x="451" y="260" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">10 repos</text>
 <path d="M22 282 H448" stroke="#234458"/>
 <text x="22" y="299" fill="#8CA6BA" font-size="11" font-family="Segoe UI, sans-serif">One repository can contain several languages</text>
