@@ -15,7 +15,7 @@
 <rect x="23" y="125" width="8" height="8" rx="2" fill="#B59AFF"/>
 <text x="39" y="135" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">Python</text>
 <rect x="198" y="125" width="163" height="9" rx="4" fill="#1A3043"/>
-<rect x="198" y="125" width="30" height="9" rx="4" fill="#B59AFF"/>
+<rect x="198" y="125" width="29" height="9" rx="4" fill="#B59AFF"/>
 <text x="451" y="135" fill="#8CA6BA" font-size="12" text-anchor="end" font-family="Segoe UI, sans-serif">18.1%</text>
 <rect x="23" y="150" width="8" height="8" rx="2" fill="#FFD66E"/>
 <text x="39" y="160" fill="#E8F7FF" font-size="12" font-family="Segoe UI, sans-serif">TypeScript</text>
